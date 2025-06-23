@@ -1,0 +1,4 @@
+domain,url,risk_score,category,brand,keywords,vt_malicious,vt_suspicious,urlscan_malicious,ip_address,country,timestamp
+"metallinredning.se","https://metallinredning.se",5,"medium_risk","meta","",0,0,"false","","","2025-06-23T17:49:05.976Z"
+"0001-stripe.com","https://0001-stripe.com",5,"medium_risk","stripe","",0,0,"false","","","2025-06-23T17:50:02.351Z"
+"0001-stripe.com","https://0001-stripe.com",5,"medium_risk","stripe","",0,0,"false","","","2025-06-23T17:50:19.587Z"
