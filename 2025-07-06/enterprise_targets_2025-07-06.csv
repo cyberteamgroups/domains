@@ -1,0 +1,8 @@
+domain,url,risk_score,category,brand,keywords,vt_malicious,vt_suspicious,urlscan_malicious,whois_status,whois_registrar,whois_registration_date,whois_expiration_date,ip_address,country,vt_available,urlscan_available,whois_available,timestamp
+"000550-memailsecure-account-appleid.bitdroplet.com","https://000550-memailsecure-account-appleid.bitdroplet.com",8,"high_risk","apple","secure",0,0,"false","unknown","","","","","","false","false","false","2025-07-06T14:43:49.209Z"
+"teslapoprad.sk","https://teslapoprad.sk",5,"medium_risk","tesla","",0,0,"false","unknown","","","","","","false","false","false","2025-07-06T14:43:09.813Z"
+"0000apple.com","https://0000apple.com",5,"medium_risk","apple","",0,0,"false","active","Tucows Domains Inc.","2024-06-24T17:50:07Z","2026-06-24T17:50:07Z","","","false","false","true","2025-07-06T14:43:26.202Z"
+"0000atl.walmartcarear.com","https://0000atl.walmartcarear.com",5,"medium_risk","walmart","",0,0,"false","unknown","","","","","","false","false","false","2025-07-06T14:43:42.116Z"
+"00029364301742.canadacentral.airflow.svc.datafactory.azure.com","https://00029364301742.canadacentral.airflow.svc.datafactory.azure.com",5,"medium_risk","azure","",0,0,"false","unknown","","","","","","false","false","false","2025-07-06T14:43:48.422Z"
+"000550-motors-14-art-edu-appleid.bitdroplet.com","https://000550-motors-14-art-edu-appleid.bitdroplet.com",5,"medium_risk","apple","",0,0,"false","unknown","","","","","","false","false","false","2025-07-06T14:43:50.030Z"
+"00.09.09.2024.google_argon2025h2.flowers-to-the-world.com","https://00.09.09.2024.google_argon2025h2.flowers-to-the-world.com",5,"medium_risk","google","",0,0,"false","unknown","","","","","","false","false","false","2025-07-06T14:43:51.600Z"
