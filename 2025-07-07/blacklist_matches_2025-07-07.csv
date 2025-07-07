@@ -1,4 +1,0 @@
-domain,url,risk_score,category,brand,keywords,vt_malicious,vt_suspicious,urlscan_overall_malicious,urlscan_engines_malicious,urlscan_community_malicious,urlscan_stats_malicious,whois_status,whois_registrar,whois_registration_date,whois_expiration_date,vt_available,urlscan_available,whois_available,timestamp
-"000086070.secure-server.eu","https://000086070.secure-server.eu",9,"confirmed_threat","","secure",2,2,"false","false","false",0,"unknown","","","","true","true","false","2025-07-07T12:52:12.688Z"
-"000ae814c9e87c7fd.secure-server.eu","https://000ae814c9e87c7fd.secure-server.eu",9,"confirmed_threat","","secure",2,2,"false","false","false",0,"unknown","","","","true","true","false","2025-07-07T12:52:17.421Z"
-"ehandelsbanken.se","https://ehandelsbanken.se",3,"blacklist_match","","bank",0,0,"false","false","false",0,"unknown","","","","false","false","false","2025-07-07T12:51:53.947Z"
