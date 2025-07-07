@@ -1,0 +1,2 @@
+domain,url,risk_score,category,brand,keywords,vt_malicious,vt_suspicious,urlscan_overall_malicious,urlscan_engines_malicious,urlscan_community_malicious,urlscan_stats_malicious,whois_status,whois_registrar,whois_registration_date,whois_expiration_date,vt_available,urlscan_available,whois_available,timestamp
+No fresh domains found,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
