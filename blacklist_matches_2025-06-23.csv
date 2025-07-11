@@ -1,4 +1,0 @@
-domain,url,risk_score,category,brand,keywords,vt_malicious,vt_suspicious,urlscan_malicious,ip_address,country,timestamp
-"jetbank.sk","https://jetbank.sk",3,"blacklist_match","","bank",0,0,"false","","","2025-06-23T17:49:23.331Z"
-"salusbanken.se","https://salusbanken.se",3,"blacklist_match","","bank",0,0,"false","","","2025-06-23T17:49:40.700Z"
-"kumushamining.com","https://kumushamining.com",3,"blacklist_match","","mining",0,0,"false","","","2025-06-23T17:50:36.587Z"
