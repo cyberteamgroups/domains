@@ -1,0 +1,44 @@
+Metric,Value
+Date,20250826
+Total Matched Domains,15992572
+Total New Domains (After Diff),24004
+Domains From Yesterday,15988573
+
+Source Breakdown (New Domains)
+Source,Count
+ICANN,24004
+
+Category Breakdown (New Domains)
+Category,Count
+blacklistKeywords_fraud,19250
+blacklistKeywords_phishing,1698
+enterpriseBrands_it_top_100_extra,1253
+enterpriseBrands_fortune_100,882
+enterpriseBrands_financial,613
+enterpriseBrands_cloud_tech,504
+blacklistKeywords_crypto_scam,361
+blacklistKeywords_malware,151
+enterpriseBrands_cybersecurity,38
+
+Top Keywords (New Domains)
+Keyword,Count
+cl,5951
+my,3306
+service,1697
+group,1601
+services,1092
+web,1000
+online,902
+ww,737
+mail,586
+box,570
+pay,521
+blue,487
+connect,453
+view,437
+business,428
+www,405
+sap,396
+find,374
+meta,313
+mobile,295
