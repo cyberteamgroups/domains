@@ -1,0 +1,18 @@
+{
+  "total_domains": 94,
+  "ok": 94,
+  "banned_count": 0,
+  "report_not_found_count": 0,
+  "with_engine_table_count": 94,
+  "sum_detection_count": 33,
+  "sum_undetection_count": 3633,
+  "sum_unknown_count": 0,
+  "engine_detect_freq": {
+    "Avira": 7,
+    "Seclookup": 10,
+    "BitDefender": 5,
+    "Fortinet": 5,
+    "SURBL": 5,
+    "CRDF": 1
+  }
+}

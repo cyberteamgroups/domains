@@ -1,0 +1,45 @@
+Metric,Value
+Date,20250824
+Total Matched Domains,15988573
+Total New Domains (After Diff),15988573
+Domains From Yesterday,0
+
+Source Breakdown (New Domains)
+Source,Count
+GitHub-nrd-14day.txt,318201
+ICANN,15670372
+
+Category Breakdown (New Domains)
+Category,Count
+blacklistKeywords_fraud,12880170
+blacklistKeywords_phishing,909678
+enterpriseBrands_it_top_100_extra,811208
+enterpriseBrands_fortune_100,777666
+enterpriseBrands_financial,483023
+blacklistKeywords_crypto_scam,244398
+enterpriseBrands_cloud_tech,201066
+blacklistKeywords_malware,95309
+enterpriseBrands_cybersecurity,23156
+
+Top Keywords (New Domains)
+Keyword,Count
+cl,3956836
+my,2205308
+group,1152299
+service,1124483
+online,744289
+web,699263
+services,693706
+box,382127
+blue,338912
+view,331523
+pay,328902
+business,322709
+ww,309392
+mail,296246
+meta,282123
+connect,244511
+ford,237545
+bank,235127
+sap,224075
+find,217417

@@ -1,0 +1,2 @@
+domain,url,risk_score,category,brand,keywords,vt_malicious,vt_suspicious,urlscan_malicious,ip_address,country,timestamp
+"kallebanka.se","https://kallebanka.se",3,"blacklist_match","","bank",0,0,"false","","","2025-07-05T17:06:33.445Z"
