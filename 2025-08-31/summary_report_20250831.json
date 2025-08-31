@@ -1,0 +1,57 @@
+{
+  "date": "20250831",
+  "total_matched_domains": 18579076,
+  "total_new_domains": 11557,
+  "domains_from_yesterday": 18580809,
+  "sources_breakdown": {
+    "ICANN": {
+      "count": 11557,
+      "categories": {
+        "blacklistKeywords_phishing": 5286,
+        "blacklistKeywords_fraud": 6898,
+        "blacklistKeywords_hunting_blacklist": 3929,
+        "blacklistKeywords_crypto_scam": 1365,
+        "blacklistKeywords_malware": 985,
+        "enterpriseBrands_fortune_100": 486,
+        "enterpriseBrands_it_top_100_extra": 495,
+        "enterpriseBrands_financial": 366,
+        "enterpriseBrands_cloud_tech": 168,
+        "enterpriseBrands_cybersecurity": 8
+      }
+    }
+  },
+  "categories": {
+    "blacklistKeywords_phishing": 5286,
+    "blacklistKeywords_fraud": 6898,
+    "blacklistKeywords_hunting_blacklist": 3929,
+    "blacklistKeywords_crypto_scam": 1365,
+    "blacklistKeywords_malware": 985,
+    "enterpriseBrands_fortune_100": 486,
+    "enterpriseBrands_it_top_100_extra": 495,
+    "enterpriseBrands_financial": 366,
+    "enterpriseBrands_cloud_tech": 168,
+    "enterpriseBrands_cybersecurity": 8
+  },
+  "top_keywords": {
+    "id": 8898,
+    "service": 1356,
+    "rat": 905,
+    "sso": 622,
+    "group": 594,
+    "support": 570,
+    "ico": 474,
+    "eth": 452,
+    "web": 422,
+    "global": 417,
+    "online": 333,
+    "login": 294,
+    "box": 207,
+    "portal": 207,
+    "pay": 196,
+    "corp": 186,
+    "find": 179,
+    "sap": 178,
+    "view": 173,
+    "mail": 171
+  }
+}
