@@ -1,0 +1,51 @@
+Metric,Value
+Date,20250902
+Total Matched Domains,18580534
+Total New Domains (After Diff),15637
+Domains From Yesterday,18577414
+Online Domains,4426
+Offline Domains,11211
+DGA Domains,0
+
+Source Breakdown (New Domains)
+Source,Count,Online,Offline,DGA
+ICANN,15637,4426,11211,0
+
+DGA Families
+Family,Count
+
+Category Breakdown (New Domains)
+Category,Count
+blacklistKeywords_fraud,9385
+blacklistKeywords_phishing,6801
+blacklistKeywords_hunting_blacklist,5009
+blacklistKeywords_crypto_scam,1846
+blacklistKeywords_malware,1377
+enterpriseBrands_fortune_100,728
+enterpriseBrands_it_top_100_extra,706
+enterpriseBrands_financial,502
+enterpriseBrands_cloud_tech,169
+enterpriseBrands_cybersecurity,15
+
+Top Keywords (New Domains)
+Keyword,Count
+id,11616
+service,1674
+rat,1190
+group,1001
+sso,950
+ico,655
+eth,629
+web,586
+global,575
+online,569
+portal,429
+box,325
+support,285
+pay,283
+meta,277
+mail,258
+view,248
+corp,236
+trust,209
+sap,202
