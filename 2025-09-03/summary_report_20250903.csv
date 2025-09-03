@@ -3,13 +3,13 @@ Date,20250903
 Total Matched Domains,20000
 Total New Domains (After Diff),500
 Domains From Yesterday,18580534
-Online Domains,19
-Offline Domains,481
+Online Domains,21
+Offline Domains,479
 DGA Domains,38
 
 Source Breakdown (New Domains)
 Source,Count,Online,Offline,DGA
-ICANN,500,19,481,38
+ICANN,500,21,479,38
 
 DGA Families
 Family,Count
