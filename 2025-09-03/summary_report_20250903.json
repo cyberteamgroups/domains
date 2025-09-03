@@ -1,0 +1,40 @@
+{
+  "date": "20250903",
+  "total_matched_domains": 20000,
+  "total_new_domains": 500,
+  "domains_from_yesterday": 18580534,
+  "online_domains": 20,
+  "offline_domains": 480,
+  "dga_domains": 38,
+  "dga_families": {
+    "urlzone": 3,
+    "benign": 11,
+    "ud3": 1,
+    "modpack": 1,
+    "makloader": 1,
+    "nymaim": 3,
+    "conficker": 11,
+    "locky": 1,
+    "qhost": 1,
+    "darkshell": 1,
+    "pykspa": 3,
+    "redyms": 1
+  },
+  "sources_breakdown": {
+    "ICANN": {
+      "count": 500,
+      "online": 20,
+      "offline": 480,
+      "dga": 38,
+      "categories": {
+        "blacklistKeywords_phishing": 500
+      }
+    }
+  },
+  "categories": {
+    "blacklistKeywords_phishing": 500
+  },
+  "top_keywords": {
+    "id": 500
+  }
+}
