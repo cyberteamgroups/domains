@@ -66,44 +66,30 @@
       "dns_soa": "",
       "wildcard_a": false,
       "wildcard_aaaa": false,
-      "whois_registrar": "Name.com, Inc.",
+      "whois_registrar": null,
       "whois_tld": "org",
-      "whois_whois_server": "http://whois.name.com",
+      "whois_whois_server": null,
       "whois_referral_url": null,
-      "whois_creation_dates": [
-        "1993-12-01T05:00:00"
-      ],
-      "whois_updated_dates": [
-        "2023-07-10T23:36:49"
-      ],
-      "whois_expiration_dates": [
-        "2029-12-08T16:53:36"
-      ],
-      "whois_status": [
-        "serverdeleteprohibited https://icann.org/epp#serverdeleteprohibited",
-        "clienttransferprohibited https://icann.org/epp#clienttransferprohibited"
-      ],
-      "whois_nameservers": [
-        "ns1.uniregistrymarket.link",
-        "ns2.uniregistrymarket.link"
-      ],
-      "whois_dnssec": "unsigned",
-      "whois_emails": [
-        "abuse@name.com"
-      ],
-      "whois_registrant_name": "REDACTED",
-      "whois_registrant_org": "Domain Protection Services, Inc.",
-      "whois_registrant_country": "US",
-      "whois_registrant_state": "CO",
-      "whois_registrant_city": "REDACTED",
-      "whois_registrant_address": "REDACTED",
+      "whois_creation_dates": [],
+      "whois_updated_dates": [],
+      "whois_expiration_dates": [],
+      "whois_status": [],
+      "whois_nameservers": [],
+      "whois_dnssec": null,
+      "whois_emails": [],
+      "whois_registrant_name": null,
+      "whois_registrant_org": null,
+      "whois_registrant_country": null,
+      "whois_registrant_state": null,
+      "whois_registrant_city": null,
+      "whois_registrant_address": null,
       "whois_registrant_phone": null,
       "whois_registrant_fax": null,
       "rdap_asn": "16509",
-      "rdap_prefix": "13.244.0.0/14, 13.248.0.0/14",
-      "rdap_org": "AT-88-Z",
+      "rdap_prefix": "76.223.0.0/17, 76.223.128.0/19, 76.223.160.0/20",
+      "rdap_org": "AMAZO-4",
       "rdap_country": "US",
-      "online": true,
+      "online": false,
       "dgad_is_dga": false,
       "dgad_binary_score": 7.7883290941827e-05,
       "dgad_binary_label": "benign",
@@ -1483,26 +1469,16 @@
       "dns_soa": "",
       "wildcard_a": false,
       "wildcard_aaaa": false,
-      "whois_registrar": "RESERVED-Internet Assigned Numbers Authority",
+      "whois_registrar": null,
       "whois_tld": "com",
-      "whois_whois_server": "whois.iana.org",
+      "whois_whois_server": null,
       "whois_referral_url": null,
-      "whois_creation_dates": [
-        "1993-12-01T05:00:00"
-      ],
-      "whois_updated_dates": [
-        "2024-12-09T08:22:32"
-      ],
-      "whois_expiration_dates": [
-        "2025-12-08T16:38:11"
-      ],
-      "whois_status": [
-        "serverdeleteprohibited https://icann.org/epp#serverdeleteprohibited",
-        "servertransferprohibited https://icann.org/epp#servertransferprohibited",
-        "serverupdateprohibited https://icann.org/epp#serverupdateprohibited"
-      ],
+      "whois_creation_dates": [],
+      "whois_updated_dates": [],
+      "whois_expiration_dates": [],
+      "whois_status": [],
       "whois_nameservers": [],
-      "whois_dnssec": "unsigned",
+      "whois_dnssec": null,
       "whois_emails": [],
       "whois_registrant_name": null,
       "whois_registrant_org": null,
@@ -1512,7 +1488,7 @@
       "whois_registrant_address": null,
       "whois_registrant_phone": null,
       "whois_registrant_fax": null,
-      "online": true,
+      "online": false,
       "dgad_is_dga": false,
       "dgad_binary_score": 7.205624569905922e-05,
       "dgad_binary_label": "benign",
@@ -2458,8 +2434,8 @@
       "whois_registrant_phone": null,
       "whois_registrant_fax": null,
       "rdap_asn": "16509",
-      "rdap_prefix": "76.223.0.0/17, 76.223.128.0/19, 76.223.160.0/20",
-      "rdap_org": "AMAZO-4",
+      "rdap_prefix": "13.244.0.0/14, 13.248.0.0/14",
+      "rdap_org": "AT-88-Z",
       "rdap_country": "US",
       "online": false,
       "dgad_is_dga": false,
@@ -2487,26 +2463,48 @@
       "dns_soa": "",
       "wildcard_a": false,
       "wildcard_aaaa": false,
-      "whois_registrar": null,
+      "whois_registrar": "GoDaddy.com, LLC",
       "whois_tld": "net",
-      "whois_whois_server": null,
+      "whois_whois_server": "whois.godaddy.com",
       "whois_referral_url": null,
-      "whois_creation_dates": [],
-      "whois_updated_dates": [],
-      "whois_expiration_dates": [],
-      "whois_status": [],
-      "whois_nameservers": [],
-      "whois_dnssec": null,
-      "whois_emails": [],
-      "whois_registrant_name": null,
-      "whois_registrant_org": null,
-      "whois_registrant_country": null,
-      "whois_registrant_state": null,
-      "whois_registrant_city": null,
-      "whois_registrant_address": null,
+      "whois_creation_dates": [
+        "1997-05-04T23:00:00",
+        "1997-05-05T04:00:00"
+      ],
+      "whois_updated_dates": [
+        "2022-10-28T05:05:13",
+        "2022-10-28T10:05:15"
+      ],
+      "whois_expiration_dates": [
+        "2029-05-05T23:00:00",
+        "2029-05-06T04:00:00"
+      ],
+      "whois_status": [
+        "clientdeleteprohibited https://icann.org/epp#clientdeleteprohibited",
+        "clientrenewprohibited https://icann.org/epp#clientrenewprohibited",
+        "clienttransferprohibited https://icann.org/epp#clienttransferprohibited",
+        "clientupdateprohibited https://icann.org/epp#clientupdateprohibited"
+      ],
+      "whois_nameservers": [
+        "freedns1.registrar-servers.com",
+        "freedns2.registrar-servers.com",
+        "freedns3.registrar-servers.com",
+        "freedns4.registrar-servers.com",
+        "freedns5.registrar-servers.com"
+      ],
+      "whois_dnssec": "unsigned",
+      "whois_emails": [
+        "abuse@godaddy.com"
+      ],
+      "whois_registrant_name": "Registration Private",
+      "whois_registrant_org": "Domains By Proxy, LLC",
+      "whois_registrant_country": "US",
+      "whois_registrant_state": "Arizona",
+      "whois_registrant_city": "Tempe",
+      "whois_registrant_address": "DomainsByProxy.com",
       "whois_registrant_phone": null,
       "whois_registrant_fax": null,
-      "online": false,
+      "online": true,
       "dgad_is_dga": false,
       "dgad_binary_score": 5.074827276985161e-05,
       "dgad_binary_label": "benign",
@@ -3092,7 +3090,7 @@
       "whois_registrant_phone": null,
       "whois_registrant_fax": null,
       "rdap_asn": "16509",
-      "rdap_prefix": "3.0.0.0/9",
+      "rdap_prefix": "15.196.0.0/14, 15.200.0.0/16",
       "rdap_org": "AT-88-Z",
       "rdap_country": "US",
       "online": false,
@@ -3791,13 +3789,18 @@
         "id"
       ],
       "timestamp": "2025-09-03T01:39:26.866262",
-      "dns_a": [],
+      "dns_a": [
+        "43.239.167.113"
+      ],
       "dns_aaaa": [],
       "dns_cname": [],
       "dns_mx": [],
-      "dns_ns": [],
+      "dns_ns": [
+        "ns7.alidns.com.",
+        "ns8.alidns.com."
+      ],
       "dns_txt": [],
-      "dns_soa": "",
+      "dns_soa": "ns7.alidns.com. hostmaster.hichina.com. 2025082113 3600 1200 86400 600",
       "wildcard_a": true,
       "wildcard_aaaa": false,
       "whois_registrar": null,
@@ -3823,7 +3826,7 @@
       "rdap_prefix": "43.239.164.0/22",
       "rdap_org": "HTL-HK",
       "rdap_country": "HK",
-      "online": false,
+      "online": true,
       "dgad_is_dga": false,
       "dgad_binary_score": 3.2577605452388525e-05,
       "dgad_binary_label": "benign",
@@ -3939,31 +3942,20 @@
       "dns_soa": "",
       "wildcard_a": false,
       "wildcard_aaaa": false,
-      "whois_registrar": "Cloudflare, Inc",
+      "whois_registrar": null,
       "whois_tld": "io",
       "whois_whois_server": null,
       "whois_referral_url": null,
-      "whois_creation_dates": [
-        "2014-11-22T17:20:58"
-      ],
-      "whois_updated_dates": [
-        "2024-10-28T04:01:50"
-      ],
-      "whois_expiration_dates": [
-        "2025-11-22T17:20:58"
-      ],
-      "whois_status": [
-        "clienttransferprohibited https://icann.org/epp#clienttransferprohibited"
-      ],
-      "whois_nameservers": [
-        "kip.ns.cloudflare.com",
-        "kay.ns.cloudflare.com"
-      ],
+      "whois_creation_dates": [],
+      "whois_updated_dates": [],
+      "whois_expiration_dates": [],
+      "whois_status": [],
+      "whois_nameservers": [],
       "whois_dnssec": null,
       "whois_emails": [],
       "whois_registrant_name": null,
       "whois_registrant_org": null,
-      "whois_registrant_country": "HK",
+      "whois_registrant_country": null,
       "whois_registrant_state": null,
       "whois_registrant_city": null,
       "whois_registrant_address": null,
@@ -3973,7 +3965,7 @@
       "rdap_prefix": "51.15.0.0/16",
       "rdap_org": "SCALEWAY",
       "rdap_country": "FR",
-      "online": true,
+      "online": false,
       "dgad_is_dga": false,
       "dgad_binary_score": 7.634045323356986e-05,
       "dgad_binary_label": "benign",
@@ -4134,30 +4126,43 @@
       "dns_soa": "",
       "wildcard_a": false,
       "wildcard_aaaa": false,
-      "whois_registrar": null,
+      "whois_registrar": "NAMECHEAP INC",
       "whois_tld": "io",
       "whois_whois_server": null,
       "whois_referral_url": null,
-      "whois_creation_dates": [],
-      "whois_updated_dates": [],
-      "whois_expiration_dates": [],
-      "whois_status": [],
-      "whois_nameservers": [],
+      "whois_creation_dates": [
+        "2003-09-29T10:24:02"
+      ],
+      "whois_updated_dates": [
+        "2024-01-25T12:55:28",
+        "2025-04-08T17:38:53"
+      ],
+      "whois_expiration_dates": [
+        "2028-04-30T12:00:00"
+      ],
+      "whois_status": [
+        "clienttransferprohibited https://icann.org/epp#clienttransferprohibited",
+        "transferperiod https://icann.org/epp#transferperiod"
+      ],
+      "whois_nameservers": [
+        "ns1.atom.com",
+        "ns2.atom.com"
+      ],
       "whois_dnssec": null,
       "whois_emails": [],
-      "whois_registrant_name": null,
+      "whois_registrant_name": "DomainBooth FZE LLC",
       "whois_registrant_org": null,
-      "whois_registrant_country": null,
+      "whois_registrant_country": "AE",
       "whois_registrant_state": null,
       "whois_registrant_city": null,
       "whois_registrant_address": null,
       "whois_registrant_phone": null,
       "whois_registrant_fax": null,
-      "rdap_asn": null,
-      "rdap_prefix": null,
-      "rdap_org": null,
-      "rdap_country": null,
-      "online": false,
+      "rdap_asn": "14618",
+      "rdap_prefix": "52.0.0.0/10, 52.64.0.0/12",
+      "rdap_org": "AT-88-Z",
+      "rdap_country": "US",
+      "online": true,
       "dgad_is_dga": false,
       "dgad_binary_score": 8.028016600292176e-05,
       "dgad_binary_label": "benign",
@@ -4183,30 +4188,46 @@
       "dns_soa": "",
       "wildcard_a": false,
       "wildcard_aaaa": false,
-      "whois_registrar": null,
+      "whois_registrar": "Chengdu west dimension digital technology Co., LTD",
       "whois_tld": "xyz",
-      "whois_whois_server": null,
+      "whois_whois_server": "whois.west.cn",
       "whois_referral_url": null,
-      "whois_creation_dates": [],
-      "whois_updated_dates": [],
-      "whois_expiration_dates": [],
-      "whois_status": [],
-      "whois_nameservers": [],
-      "whois_dnssec": null,
-      "whois_emails": [],
-      "whois_registrant_name": null,
-      "whois_registrant_org": null,
-      "whois_registrant_country": null,
-      "whois_registrant_state": null,
-      "whois_registrant_city": null,
-      "whois_registrant_address": null,
+      "whois_creation_dates": [
+        "2015-11-24T09:49:52"
+      ],
+      "whois_updated_dates": [
+        "2015-11-24T09:49:52",
+        "2023-08-31T16:50:19"
+      ],
+      "whois_expiration_dates": [
+        "2026-11-24T23:59:59"
+      ],
+      "whois_status": [
+        "clienttransferprohibited https://icann.org/epp#clienttransferprohibited",
+        "ok http://www.icann.org/epp#ok"
+      ],
+      "whois_nameservers": [
+        "ns1.4.cn",
+        "ns2.4.cn"
+      ],
+      "whois_dnssec": "unsigned",
+      "whois_emails": [
+        "abuse@west.cn",
+        "westabuse@gmail.com"
+      ],
+      "whois_registrant_name": "REDACTED FOR PRIVACY",
+      "whois_registrant_org": "REDACTED FOR PRIVACY",
+      "whois_registrant_country": "CN",
+      "whois_registrant_state": "Shan Dong",
+      "whois_registrant_city": "REDACTED FOR PRIVACY",
+      "whois_registrant_address": "REDACTED FOR PRIVACY",
       "whois_registrant_phone": null,
       "whois_registrant_fax": null,
       "rdap_asn": "46844",
       "rdap_prefix": "208.98.32.0/19",
       "rdap_org": "ST-LV",
       "rdap_country": "US",
-      "online": false,
+      "online": true,
       "dgad_is_dga": false,
       "dgad_binary_score": 8.028016600292176e-05,
       "dgad_binary_label": "benign",
@@ -5582,49 +5603,30 @@
       "dns_soa": "",
       "wildcard_a": false,
       "wildcard_aaaa": false,
-      "whois_registrar": "GoDaddy.com, LLC",
+      "whois_registrar": null,
       "whois_tld": "com",
-      "whois_whois_server": "whois.godaddy.com",
+      "whois_whois_server": null,
       "whois_referral_url": null,
-      "whois_creation_dates": [
-        "1998-10-13T23:00:00",
-        "1998-10-14T04:00:00"
-      ],
-      "whois_updated_dates": [
-        "2025-03-08T08:18:11",
-        "2025-03-13T07:43:00"
-      ],
-      "whois_expiration_dates": [
-        "2029-10-12T23:00:00",
-        "2029-10-13T04:00:00"
-      ],
-      "whois_status": [
-        "clientdeleteprohibited https://icann.org/epp#clientdeleteprohibited",
-        "clientrenewprohibited https://icann.org/epp#clientrenewprohibited",
-        "clienttransferprohibited https://icann.org/epp#clienttransferprohibited",
-        "clientupdateprohibited https://icann.org/epp#clientupdateprohibited"
-      ],
-      "whois_nameservers": [
-        "ns37.domaincontrol.com",
-        "ns38.domaincontrol.com"
-      ],
-      "whois_dnssec": "unsigned",
-      "whois_emails": [
-        "abuse@godaddy.com"
-      ],
-      "whois_registrant_name": "Registration Private",
-      "whois_registrant_org": "Domains By Proxy, LLC",
-      "whois_registrant_country": "US",
-      "whois_registrant_state": "Arizona",
-      "whois_registrant_city": "Tempe",
-      "whois_registrant_address": "DomainsByProxy.com",
+      "whois_creation_dates": [],
+      "whois_updated_dates": [],
+      "whois_expiration_dates": [],
+      "whois_status": [],
+      "whois_nameservers": [],
+      "whois_dnssec": null,
+      "whois_emails": [],
+      "whois_registrant_name": null,
+      "whois_registrant_org": null,
+      "whois_registrant_country": null,
+      "whois_registrant_state": null,
+      "whois_registrant_city": null,
+      "whois_registrant_address": null,
       "whois_registrant_phone": null,
       "whois_registrant_fax": null,
       "rdap_asn": "16509",
-      "rdap_prefix": "3.0.0.0/9",
+      "rdap_prefix": "15.196.0.0/14, 15.200.0.0/16",
       "rdap_org": "AT-88-Z",
       "rdap_country": "US",
-      "online": true,
+      "online": false,
       "dgad_is_dga": false,
       "dgad_binary_score": 0.0001253181544598192,
       "dgad_binary_label": "benign",
@@ -5777,16 +5779,13 @@
       ],
       "timestamp": "2025-09-03T01:39:26.295487",
       "dns_a": [
-        "15.197.204.56",
-        "3.33.243.145"
+        "3.33.243.145",
+        "15.197.204.56"
       ],
       "dns_aaaa": [],
       "dns_cname": [],
       "dns_mx": [],
-      "dns_ns": [
-        "ns1.smartname.com.",
-        "ns2.smartname.com."
-      ],
+      "dns_ns": [],
       "dns_txt": [],
       "dns_soa": "ns1.smartname.com. dns.jomax.net. 2023061200 28800 7200 604800 86400",
       "wildcard_a": true,
@@ -6738,8 +6737,8 @@
       "dns_cname": [],
       "dns_mx": [],
       "dns_ns": [
-        "l1.ns.divido.org.",
-        "l2.ns.divido.org."
+        "l2.ns.divido.org.",
+        "l1.ns.divido.org."
       ],
       "dns_txt": [
         "\"26e2cd39db437b9d550a5ddfc846fcd327471ed6\""
@@ -6884,15 +6883,15 @@
       "dns_cname": [],
       "dns_mx": [
         "20 mx2.ast.xyz.",
-        "10 mx1.ast.xyz.",
-        "25 mx3.ast.xyz."
+        "25 mx3.ast.xyz.",
+        "10 mx1.ast.xyz."
       ],
       "dns_ns": [
-        "ns4.no-ip.com.",
+        "ns1.no-ip.com.",
         "ns3.no-ip.com.",
+        "ns4.no-ip.com.",
         "ns2.no-ip.com.",
-        "ns5.no-ip.com.",
-        "ns1.no-ip.com."
+        "ns5.no-ip.com."
       ],
       "dns_txt": [
         "\"v=spf1 include:host40.spf.checkdomain.de -all\""
@@ -7058,10 +7057,10 @@
       "whois_registrant_address": null,
       "whois_registrant_phone": null,
       "whois_registrant_fax": null,
-      "rdap_asn": null,
-      "rdap_prefix": null,
-      "rdap_org": null,
-      "rdap_country": null,
+      "rdap_asn": "13649",
+      "rdap_prefix": "216.26.174.64/26",
+      "rdap_org": "P10-D81A-AE40-26",
+      "rdap_country": "US",
       "online": false,
       "dgad_is_dga": false,
       "dgad_binary_score": 3.34335672960151e-05,
@@ -8262,20 +8261,17 @@
       ],
       "timestamp": "2025-09-03T01:39:26.423463",
       "dns_a": [
-        "188.114.97.3",
-        "188.114.96.3"
+        "188.114.96.3",
+        "188.114.97.3"
       ],
-      "dns_aaaa": [
-        "2a06:98c1:3120::3",
-        "2a06:98c1:3121::3"
-      ],
+      "dns_aaaa": [],
       "dns_cname": [],
       "dns_mx": [
-        "5 alt2.aspmx.l.google.com.",
-        "5 alt1.aspmx.l.google.com.",
         "10 alt4.aspmx.l.google.com.",
-        "1 aspmx.l.google.com.",
-        "10 alt3.aspmx.l.google.com."
+        "5 alt1.aspmx.l.google.com.",
+        "10 alt3.aspmx.l.google.com.",
+        "5 alt2.aspmx.l.google.com.",
+        "1 aspmx.l.google.com."
       ],
       "dns_ns": [
         "lily.ns.cloudflare.com.",
@@ -8327,13 +8323,19 @@
         "id"
       ],
       "timestamp": "2025-09-03T01:39:26.321817",
-      "dns_a": [],
+      "dns_a": [
+        "13.248.243.5",
+        "76.223.105.230"
+      ],
       "dns_aaaa": [],
       "dns_cname": [],
       "dns_mx": [],
       "dns_ns": [],
-      "dns_txt": [],
-      "dns_soa": "",
+      "dns_txt": [
+        "\"v=spf1 include:icloud.com ~all\"",
+        "\"apple-domain=Ory85LAgVSxfwqpj\""
+      ],
+      "dns_soa": "ns63.domaincontrol.com. dns.jomax.net. 2025021700 28800 7200 604800 600",
       "wildcard_a": false,
       "wildcard_aaaa": false,
       "whois_registrar": null,
@@ -8359,7 +8361,7 @@
       "rdap_prefix": "13.244.0.0/14, 13.248.0.0/14",
       "rdap_org": "AT-88-Z",
       "rdap_country": "US",
-      "online": false,
+      "online": true,
       "dgad_is_dga": false,
       "dgad_binary_score": 7.986782293301076e-05,
       "dgad_binary_label": "benign",
@@ -8494,10 +8496,10 @@
       "whois_registrant_address": null,
       "whois_registrant_phone": null,
       "whois_registrant_fax": null,
-      "rdap_asn": null,
-      "rdap_prefix": null,
-      "rdap_org": null,
-      "rdap_country": null,
+      "rdap_asn": "13335",
+      "rdap_prefix": "172.64.0.0/13",
+      "rdap_org": "CLOUDFLARENET",
+      "rdap_country": "US",
       "online": false,
       "dgad_is_dga": false,
       "dgad_binary_score": 0.0002527251490391791,
@@ -8949,8 +8951,8 @@
       "whois_registrant_phone": null,
       "whois_registrant_fax": null,
       "rdap_asn": "16509",
-      "rdap_prefix": "76.223.0.0/17, 76.223.128.0/19, 76.223.160.0/20",
-      "rdap_org": "AMAZO-4",
+      "rdap_prefix": "13.244.0.0/14, 13.248.0.0/14",
+      "rdap_org": "AT-88-Z",
       "rdap_country": "US",
       "online": false,
       "dgad_is_dga": false,
@@ -9113,26 +9115,16 @@
       "dns_soa": "",
       "wildcard_a": false,
       "wildcard_aaaa": false,
-      "whois_registrar": "RESERVED-Internet Assigned Numbers Authority",
+      "whois_registrar": null,
       "whois_tld": "com",
-      "whois_whois_server": "whois.iana.org",
+      "whois_whois_server": null,
       "whois_referral_url": null,
-      "whois_creation_dates": [
-        "1993-12-01T05:00:00"
-      ],
-      "whois_updated_dates": [
-        "2024-12-09T08:23:35"
-      ],
-      "whois_expiration_dates": [
-        "2025-12-08T17:05:02"
-      ],
-      "whois_status": [
-        "serverdeleteprohibited https://icann.org/epp#serverdeleteprohibited",
-        "servertransferprohibited https://icann.org/epp#servertransferprohibited",
-        "serverupdateprohibited https://icann.org/epp#serverupdateprohibited"
-      ],
+      "whois_creation_dates": [],
+      "whois_updated_dates": [],
+      "whois_expiration_dates": [],
+      "whois_status": [],
       "whois_nameservers": [],
-      "whois_dnssec": "unsigned",
+      "whois_dnssec": null,
       "whois_emails": [],
       "whois_registrant_name": null,
       "whois_registrant_org": null,
@@ -9142,7 +9134,7 @@
       "whois_registrant_address": null,
       "whois_registrant_phone": null,
       "whois_registrant_fax": null,
-      "online": true,
+      "online": false,
       "dgad_is_dga": false,
       "dgad_binary_score": 0.00025132764130830765,
       "dgad_binary_label": "benign",
@@ -9933,20 +9925,32 @@
       "dns_soa": "",
       "wildcard_a": false,
       "wildcard_aaaa": false,
-      "whois_registrar": null,
+      "whois_registrar": "Sav.com, LLC",
       "whois_tld": "io",
       "whois_whois_server": null,
       "whois_referral_url": null,
-      "whois_creation_dates": [],
-      "whois_updated_dates": [],
-      "whois_expiration_dates": [],
-      "whois_status": [],
-      "whois_nameservers": [],
+      "whois_creation_dates": [
+        "2019-08-31T10:09:49"
+      ],
+      "whois_updated_dates": [
+        "2025-08-31T10:10:15"
+      ],
+      "whois_expiration_dates": [
+        "2026-08-31T10:09:49"
+      ],
+      "whois_status": [
+        "clienttransferprohibited https://icann.org/epp#clienttransferprohibited",
+        "autorenewperiod https://icann.org/epp#autorenewperiod"
+      ],
+      "whois_nameservers": [
+        "ns1.afternic.com",
+        "ns2.afternic.com"
+      ],
       "whois_dnssec": null,
       "whois_emails": [],
-      "whois_registrant_name": null,
+      "whois_registrant_name": "Privacy Protection",
       "whois_registrant_org": null,
-      "whois_registrant_country": null,
+      "whois_registrant_country": "US",
       "whois_registrant_state": null,
       "whois_registrant_city": null,
       "whois_registrant_address": null,
@@ -9956,7 +9960,7 @@
       "rdap_prefix": "76.223.0.0/17, 76.223.128.0/19, 76.223.160.0/20",
       "rdap_org": "AMAZO-4",
       "rdap_country": "US",
-      "online": false,
+      "online": true,
       "dgad_is_dga": false,
       "dgad_binary_score": 0.00011126674507977441,
       "dgad_binary_label": "benign",
@@ -12884,14 +12888,14 @@
       "dns_aaaa": [],
       "dns_cname": [],
       "dns_mx": [
-        "10 k1n-net.mx1.arsmtp.com.",
-        "10 k1n-net.mx2.arsmtp.com."
+        "10 k1n-net.mx2.arsmtp.com.",
+        "10 k1n-net.mx1.arsmtp.com."
       ],
       "dns_ns": [
-        "ns2.prxy.net.",
-        "ns4.prxy.net.",
         "ns3.prxy.net.",
-        "ns1.prxy.net."
+        "ns1.prxy.net.",
+        "ns2.prxy.net.",
+        "ns4.prxy.net."
       ],
       "dns_txt": [
         "\"v=spf1 -all\""
@@ -13417,10 +13421,10 @@
       "whois_registrant_address": null,
       "whois_registrant_phone": null,
       "whois_registrant_fax": null,
-      "rdap_asn": null,
-      "rdap_prefix": null,
-      "rdap_org": null,
-      "rdap_country": null,
+      "rdap_asn": "13335",
+      "rdap_prefix": "172.64.0.0/13",
+      "rdap_org": "CLOUDFLARENET",
+      "rdap_country": "US",
       "online": false,
       "dgad_is_dga": false,
       "dgad_binary_score": 0.000774865853600204,
@@ -13753,7 +13757,9 @@
         "id"
       ],
       "timestamp": "2025-09-03T01:39:26.175681",
-      "dns_a": [],
+      "dns_a": [
+        "103.224.212.211"
+      ],
       "dns_aaaa": [],
       "dns_cname": [],
       "dns_mx": [
@@ -15015,10 +15021,10 @@
       "whois_registrant_address": null,
       "whois_registrant_phone": null,
       "whois_registrant_fax": null,
-      "rdap_asn": "16509",
-      "rdap_prefix": "35.156.0.0/14",
-      "rdap_org": "AMAZO-ZFRA",
-      "rdap_country": "US",
+      "rdap_asn": null,
+      "rdap_prefix": null,
+      "rdap_org": null,
+      "rdap_country": null,
       "online": false,
       "dgad_is_dga": false,
       "dgad_binary_score": 0.00031615825719200075,
@@ -16534,26 +16540,16 @@
       "dns_soa": "",
       "wildcard_a": false,
       "wildcard_aaaa": false,
-      "whois_registrar": "RESERVED-Internet Assigned Numbers Authority",
+      "whois_registrar": null,
       "whois_tld": "net",
-      "whois_whois_server": "whois.iana.org",
+      "whois_whois_server": null,
       "whois_referral_url": null,
-      "whois_creation_dates": [
-        "1993-12-01T05:00:00"
-      ],
-      "whois_updated_dates": [
-        "2024-12-09T08:23:29"
-      ],
-      "whois_expiration_dates": [
-        "2025-12-08T17:02:51"
-      ],
-      "whois_status": [
-        "serverdeleteprohibited https://icann.org/epp#serverdeleteprohibited",
-        "servertransferprohibited https://icann.org/epp#servertransferprohibited",
-        "serverupdateprohibited https://icann.org/epp#serverupdateprohibited"
-      ],
+      "whois_creation_dates": [],
+      "whois_updated_dates": [],
+      "whois_expiration_dates": [],
+      "whois_status": [],
       "whois_nameservers": [],
-      "whois_dnssec": "unsigned",
+      "whois_dnssec": null,
       "whois_emails": [],
       "whois_registrant_name": null,
       "whois_registrant_org": null,
@@ -16563,7 +16559,7 @@
       "whois_registrant_address": null,
       "whois_registrant_phone": null,
       "whois_registrant_fax": null,
-      "online": true,
+      "online": false,
       "dgad_is_dga": false,
       "dgad_binary_score": 0.000203963034437038,
       "dgad_binary_label": "benign",
@@ -16900,10 +16896,10 @@
       "dns_cname": [],
       "dns_mx": [],
       "dns_ns": [
+        "ns3.iwantmyname.net.",
         "ns2.iwantmyname.net.",
         "ns1.iwantmyname.net.",
-        "ns4.iwantmyname.net.",
-        "ns3.iwantmyname.net."
+        "ns4.iwantmyname.net."
       ],
       "dns_txt": [],
       "dns_soa": "ns1.iwantmyname.net. hostmaster.iwantmyname.com. 2014052900 86400 7200 3600000 3600",
@@ -17396,15 +17392,15 @@
       ],
       "timestamp": "2025-09-03T01:39:26.443363",
       "dns_a": [
-        "15.197.225.128",
-        "3.33.251.168"
+        "3.33.251.168",
+        "15.197.225.128"
       ],
       "dns_aaaa": [],
       "dns_cname": [],
       "dns_mx": [],
       "dns_ns": [
-        "ns49.domaincontrol.com.",
-        "ns50.domaincontrol.com."
+        "ns50.domaincontrol.com.",
+        "ns49.domaincontrol.com."
       ],
       "dns_txt": [],
       "dns_soa": "ns49.domaincontrol.com. dns.jomax.net. 2025042201 28800 7200 604800 86400",
@@ -17594,41 +17590,30 @@
       "dns_soa": "",
       "wildcard_a": false,
       "wildcard_aaaa": false,
-      "whois_registrar": "NAMECHEAP INC",
+      "whois_registrar": null,
       "whois_tld": "io",
       "whois_whois_server": null,
       "whois_referral_url": null,
-      "whois_creation_dates": [
-        "2016-05-07T00:30:14"
-      ],
-      "whois_updated_dates": [
-        "2021-10-13T17:27:51"
-      ],
-      "whois_expiration_dates": [
-        "2026-05-07T00:30:14"
-      ],
-      "whois_status": [
-        "ok https://icann.org/epp#ok"
-      ],
-      "whois_nameservers": [
-        "a.dns.park.io",
-        "b.dns.park.io"
-      ],
+      "whois_creation_dates": [],
+      "whois_updated_dates": [],
+      "whois_expiration_dates": [],
+      "whois_status": [],
+      "whois_nameservers": [],
       "whois_dnssec": null,
       "whois_emails": [],
-      "whois_registrant_name": "Privacy service provided by Withheld for Privacy ehf",
+      "whois_registrant_name": null,
       "whois_registrant_org": null,
-      "whois_registrant_country": "IS",
+      "whois_registrant_country": null,
       "whois_registrant_state": null,
       "whois_registrant_city": null,
       "whois_registrant_address": null,
       "whois_registrant_phone": null,
       "whois_registrant_fax": null,
-      "rdap_asn": "14618",
-      "rdap_prefix": "54.64.0.0/11",
-      "rdap_org": "AMAZON-2011L",
-      "rdap_country": "US",
-      "online": true,
+      "rdap_asn": null,
+      "rdap_prefix": null,
+      "rdap_org": null,
+      "rdap_country": null,
+      "online": false,
       "dgad_is_dga": false,
       "dgad_binary_score": 0.0001455938327126205,
       "dgad_binary_label": "benign",
@@ -17825,15 +17810,21 @@
         "id"
       ],
       "timestamp": "2025-09-03T01:39:26.241961",
-      "dns_a": [],
+      "dns_a": [
+        "51.89.85.76"
+      ],
       "dns_aaaa": [],
       "dns_cname": [],
-      "dns_mx": [
-        "10 mail.ra6.io."
+      "dns_mx": [],
+      "dns_ns": [
+        "ns2.kramer-dns.de.",
+        "ns3.kramer-dns.de.",
+        "ns1.kramer-dns.de."
       ],
-      "dns_ns": [],
-      "dns_txt": [],
-      "dns_soa": "",
+      "dns_txt": [
+        "\"v=spf1 ip4:51.89.85.76 ~all\""
+      ],
+      "dns_soa": "ns1.kramer-dns.de. hostmaster.kramer-dns.de. 2024121310 43200 7200 1209600 86400",
       "wildcard_a": true,
       "wildcard_aaaa": false,
       "whois_registrar": null,
@@ -17859,7 +17850,7 @@
       "rdap_prefix": "51.89.85.76/30",
       "rdap_org": "OVH_265075582",
       "rdap_country": "DE",
-      "online": false,
+      "online": true,
       "dgad_is_dga": false,
       "dgad_binary_score": 3.9745256799506024e-05,
       "dgad_binary_label": "benign",
@@ -18245,30 +18236,46 @@
       "dns_soa": "",
       "wildcard_a": false,
       "wildcard_aaaa": false,
-      "whois_registrar": null,
+      "whois_registrar": "Chengdu west dimension digital technology Co., LTD",
       "whois_tld": "net",
-      "whois_whois_server": null,
+      "whois_whois_server": "whois.west.cn",
       "whois_referral_url": null,
-      "whois_creation_dates": [],
-      "whois_updated_dates": [],
-      "whois_expiration_dates": [],
-      "whois_status": [],
-      "whois_nameservers": [],
-      "whois_dnssec": null,
-      "whois_emails": [],
-      "whois_registrant_name": null,
-      "whois_registrant_org": null,
-      "whois_registrant_country": null,
-      "whois_registrant_state": null,
-      "whois_registrant_city": null,
-      "whois_registrant_address": null,
+      "whois_creation_dates": [
+        "2015-03-09T14:08:44"
+      ],
+      "whois_updated_dates": [
+        "2015-03-09T14:08:44",
+        "2025-02-07T07:42:24"
+      ],
+      "whois_expiration_dates": [
+        "2026-03-09T14:08:44"
+      ],
+      "whois_status": [
+        "ok https://icann.org/epp#ok",
+        "ok http://www.icann.org/epp#ok"
+      ],
+      "whois_nameservers": [
+        "dns10.hichina.com",
+        "dns9.hichina.com"
+      ],
+      "whois_dnssec": "unsigned",
+      "whois_emails": [
+        "abuse@west.cn",
+        "westabuse@gmail.com"
+      ],
+      "whois_registrant_name": "REDACTED FOR PRIVACY",
+      "whois_registrant_org": "REDACTED FOR PRIVACY",
+      "whois_registrant_country": "CN",
+      "whois_registrant_state": "Hu Bei",
+      "whois_registrant_city": "REDACTED FOR PRIVACY",
+      "whois_registrant_address": "REDACTED FOR PRIVACY",
       "whois_registrant_phone": null,
       "whois_registrant_fax": null,
       "rdap_asn": "401696",
       "rdap_prefix": "103.85.224.0/24",
       "rdap_org": "ILAYERLIMITED-HK",
       "rdap_country": "HK",
-      "online": false,
+      "online": true,
       "dgad_is_dga": false,
       "dgad_binary_score": 5.218509249971248e-05,
       "dgad_binary_label": "benign",
@@ -18699,31 +18706,20 @@
       "dns_soa": "",
       "wildcard_a": false,
       "wildcard_aaaa": false,
-      "whois_registrar": "Divido Ltd",
+      "whois_registrar": null,
       "whois_tld": "io",
       "whois_whois_server": null,
       "whois_referral_url": null,
-      "whois_creation_dates": [
-        "2003-09-22T14:12:09"
-      ],
-      "whois_updated_dates": [
-        "2003-09-22T14:12:09"
-      ],
-      "whois_expiration_dates": [
-        "2027-04-30T12:00:00"
-      ],
-      "whois_status": [
-        "ok https://icann.org/epp#ok"
-      ],
-      "whois_nameservers": [
-        "l1.ns.divido.org",
-        "l2.ns.divido.org"
-      ],
+      "whois_creation_dates": [],
+      "whois_updated_dates": [],
+      "whois_expiration_dates": [],
+      "whois_status": [],
+      "whois_nameservers": [],
       "whois_dnssec": null,
       "whois_emails": [],
-      "whois_registrant_name": "Divido Ltd",
+      "whois_registrant_name": null,
       "whois_registrant_org": null,
-      "whois_registrant_country": "GB",
+      "whois_registrant_country": null,
       "whois_registrant_state": null,
       "whois_registrant_city": null,
       "whois_registrant_address": null,
@@ -18733,7 +18729,7 @@
       "rdap_prefix": "3.128.0.0/9",
       "rdap_org": "AT-88-Z",
       "rdap_country": "US",
-      "online": true,
+      "online": false,
       "dgad_is_dga": false,
       "dgad_binary_score": 0.00011726613593054935,
       "dgad_binary_label": "benign",
@@ -19074,20 +19070,32 @@
       "dns_soa": "",
       "wildcard_a": false,
       "wildcard_aaaa": false,
-      "whois_registrar": null,
+      "whois_registrar": "Key-Systems GmbH",
       "whois_tld": "io",
       "whois_whois_server": null,
       "whois_referral_url": null,
-      "whois_creation_dates": [],
-      "whois_updated_dates": [],
-      "whois_expiration_dates": [],
-      "whois_status": [],
-      "whois_nameservers": [],
+      "whois_creation_dates": [
+        "2017-11-10T13:37:01"
+      ],
+      "whois_updated_dates": [
+        "2024-12-25T13:37:35"
+      ],
+      "whois_expiration_dates": [
+        "2025-11-10T13:37:01"
+      ],
+      "whois_status": [
+        "ok https://icann.org/epp#ok"
+      ],
+      "whois_nameservers": [
+        "ns0.transip.net",
+        "ns1.transip.nl",
+        "ns2.transip.eu"
+      ],
       "whois_dnssec": null,
       "whois_emails": [],
-      "whois_registrant_name": null,
+      "whois_registrant_name": "Pro4all",
       "whois_registrant_org": null,
-      "whois_registrant_country": null,
+      "whois_registrant_country": "NL",
       "whois_registrant_state": null,
       "whois_registrant_city": null,
       "whois_registrant_address": null,
@@ -19097,7 +19105,7 @@
       "rdap_prefix": "37.97.128.0/17",
       "rdap_org": "NL-SIGNET-20120202",
       "rdap_country": "NL",
-      "online": false,
+      "online": true,
       "dgad_is_dga": false,
       "dgad_binary_score": 8.813341264612973e-05,
       "dgad_binary_label": "benign",
@@ -19213,41 +19221,26 @@
       "dns_soa": "",
       "wildcard_a": false,
       "wildcard_aaaa": false,
-      "whois_registrar": "Network Solutions, LLC",
+      "whois_registrar": null,
       "whois_tld": "org",
-      "whois_whois_server": "whois.networksolutions.com",
+      "whois_whois_server": null,
       "whois_referral_url": null,
-      "whois_creation_dates": [
-        "1993-08-31T04:00:00"
-      ],
-      "whois_updated_dates": [
-        "2022-08-03T14:45:44",
-        "2025-01-16T09:39:12"
-      ],
-      "whois_expiration_dates": [
-        "2031-08-30T04:00:00"
-      ],
-      "whois_status": [
-        "clienttransferprohibited https://icann.org/epp#clienttransferprohibited"
-      ],
-      "whois_nameservers": [
-        "ns91.worldnic.com",
-        "ns92.worldnic.com"
-      ],
-      "whois_dnssec": "unsigned",
-      "whois_emails": [
-        "domain.operations@web.com",
-        "qr7fc3yb4u9@networksolutionsprivateregistration.com"
-      ],
-      "whois_registrant_name": "REDACTED",
+      "whois_creation_dates": [],
+      "whois_updated_dates": [],
+      "whois_expiration_dates": [],
+      "whois_status": [],
+      "whois_nameservers": [],
+      "whois_dnssec": null,
+      "whois_emails": [],
+      "whois_registrant_name": null,
       "whois_registrant_org": null,
-      "whois_registrant_country": "GR",
-      "whois_registrant_state": "redacted",
-      "whois_registrant_city": "REDACTED",
-      "whois_registrant_address": "REDACTED",
+      "whois_registrant_country": null,
+      "whois_registrant_state": null,
+      "whois_registrant_city": null,
+      "whois_registrant_address": null,
       "whois_registrant_phone": null,
       "whois_registrant_fax": null,
-      "online": true,
+      "online": false,
       "dgad_is_dga": false,
       "dgad_binary_score": 7.217508391477168e-05,
       "dgad_binary_label": "benign",
@@ -19588,30 +19581,47 @@
       "dns_soa": "",
       "wildcard_a": false,
       "wildcard_aaaa": false,
-      "whois_registrar": null,
+      "whois_registrar": "Network Solutions, LLC",
       "whois_tld": "org",
-      "whois_whois_server": null,
+      "whois_whois_server": "whois.networksolutions.com",
       "whois_referral_url": null,
-      "whois_creation_dates": [],
-      "whois_updated_dates": [],
-      "whois_expiration_dates": [],
-      "whois_status": [],
-      "whois_nameservers": [],
-      "whois_dnssec": null,
-      "whois_emails": [],
-      "whois_registrant_name": null,
-      "whois_registrant_org": null,
-      "whois_registrant_country": null,
+      "whois_creation_dates": [
+        "1998-12-02T05:00:00"
+      ],
+      "whois_updated_dates": [
+        "2024-10-03T14:21:57",
+        "2024-10-08T14:22:05"
+      ],
+      "whois_expiration_dates": [
+        "2027-12-01T05:00:00"
+      ],
+      "whois_status": [
+        "clienttransferprohibited https://icann.org/epp#clienttransferprohibited"
+      ],
+      "whois_nameservers": [
+        "ns-1256.awsdns-29.org",
+        "ns-1993.awsdns-57.co.uk",
+        "ns-370.awsdns-46.com",
+        "ns-952.awsdns-55.net"
+      ],
+      "whois_dnssec": "unsigned",
+      "whois_emails": [
+        "domain.operations@web.com",
+        "dataprotected@maskeddetails.com"
+      ],
+      "whois_registrant_name": "REDACTED",
+      "whois_registrant_org": "NOT US LIMITED",
+      "whois_registrant_country": "IE",
       "whois_registrant_state": null,
-      "whois_registrant_city": null,
-      "whois_registrant_address": null,
+      "whois_registrant_city": "REDACTED",
+      "whois_registrant_address": "REDACTED",
       "whois_registrant_phone": null,
       "whois_registrant_fax": null,
       "rdap_asn": "63949",
       "rdap_prefix": "139.162.0.0/16",
       "rdap_org": "EU-LINODE-20141229",
       "rdap_country": "US",
-      "online": false,
+      "online": true,
       "dgad_is_dga": false,
       "dgad_binary_score": 0.00017228319484274834,
       "dgad_binary_label": "benign",
@@ -20090,55 +20100,34 @@
       "dns_cname": [],
       "dns_mx": [],
       "dns_ns": [
-        "ns6.myhostadmin.net.",
+        "ns5.myhostadmin.net.",
         "ns3.myhostadmin.net.",
         "ns4.myhostadmin.net.",
         "ns2.myhostadmin.net.",
-        "ns1.myhostadmin.net.",
-        "ns5.myhostadmin.net."
+        "ns6.myhostadmin.net.",
+        "ns1.myhostadmin.net."
       ],
       "dns_txt": [],
       "dns_soa": "ns1.myhostadmin.net. dnsconct.myhostadmin.net. 2024111041 43200 300 1209600 3600",
       "wildcard_a": true,
       "wildcard_aaaa": false,
-      "whois_registrar": "Chengdu west dimension digital technology Co., LTD",
+      "whois_registrar": null,
       "whois_tld": "xyz",
-      "whois_whois_server": "whois.west.cn",
+      "whois_whois_server": null,
       "whois_referral_url": null,
-      "whois_creation_dates": [
-        "2024-11-07T09:18:25"
-      ],
-      "whois_updated_dates": [
-        "2024-11-07T09:18:25",
-        "2024-12-15T09:41:33"
-      ],
-      "whois_expiration_dates": [
-        "2025-11-07T09:18:25",
-        "2025-11-07T23:59:59"
-      ],
-      "whois_status": [
-        "ok https://icann.org/epp#ok",
-        "ok http://www.icann.org/epp#ok"
-      ],
-      "whois_nameservers": [
-        "ns5.myhostadmin.net",
-        "ns6.myhostadmin.net",
-        "ns1.myhostadmin.net",
-        "ns2.myhostadmin.net",
-        "ns3.myhostadmin.net",
-        "ns4.myhostadmin.net"
-      ],
-      "whois_dnssec": "unsigned",
-      "whois_emails": [
-        "abuse@west.cn",
-        "westabuse@gmail.com"
-      ],
-      "whois_registrant_name": "REDACTED FOR PRIVACY",
-      "whois_registrant_org": "REDACTED FOR PRIVACY",
-      "whois_registrant_country": "CN",
-      "whois_registrant_state": "Hu Bei Sheng",
-      "whois_registrant_city": "REDACTED FOR PRIVACY",
-      "whois_registrant_address": "REDACTED FOR PRIVACY",
+      "whois_creation_dates": [],
+      "whois_updated_dates": [],
+      "whois_expiration_dates": [],
+      "whois_status": [],
+      "whois_nameservers": [],
+      "whois_dnssec": null,
+      "whois_emails": [],
+      "whois_registrant_name": null,
+      "whois_registrant_org": null,
+      "whois_registrant_country": null,
+      "whois_registrant_state": null,
+      "whois_registrant_city": null,
+      "whois_registrant_address": null,
       "whois_registrant_phone": null,
       "whois_registrant_fax": null,
       "rdap_asn": "401696",
@@ -20526,13 +20515,18 @@
         "id"
       ],
       "timestamp": "2025-09-03T01:39:26.274225",
-      "dns_a": [],
+      "dns_a": [
+        "13.248.169.48",
+        "76.223.54.146"
+      ],
       "dns_aaaa": [],
       "dns_cname": [],
       "dns_mx": [],
       "dns_ns": [],
-      "dns_txt": [],
-      "dns_soa": "",
+      "dns_txt": [
+        "\"v=spf1 -all\""
+      ],
+      "dns_soa": "ns1.afternic.com. dns.jomax.net. 1 28800 7200 604800 86400",
       "wildcard_a": true,
       "wildcard_aaaa": false,
       "whois_registrar": null,
@@ -20555,10 +20549,10 @@
       "whois_registrant_phone": null,
       "whois_registrant_fax": null,
       "rdap_asn": "16509",
-      "rdap_prefix": "76.223.0.0/17, 76.223.128.0/19, 76.223.160.0/20",
-      "rdap_org": "AMAZO-4",
+      "rdap_prefix": "13.244.0.0/14, 13.248.0.0/14",
+      "rdap_org": "AT-88-Z",
       "rdap_country": "US",
-      "online": false,
+      "online": true,
       "dgad_is_dga": false,
       "dgad_binary_score": 0.00019278567924629897,
       "dgad_binary_label": "benign",
@@ -22318,8 +22312,8 @@
       "whois_registrant_phone": null,
       "whois_registrant_fax": null,
       "rdap_asn": "16509",
-      "rdap_prefix": "52.0.0.0/10, 52.64.0.0/12",
-      "rdap_org": "AT-88-Z",
+      "rdap_prefix": "44.224.0.0/11",
+      "rdap_org": "AMAZO-ZPDX",
       "rdap_country": "US",
       "online": false,
       "dgad_is_dga": false,
@@ -22411,10 +22405,10 @@
       "whois_registrant_address": null,
       "whois_registrant_phone": null,
       "whois_registrant_fax": null,
-      "rdap_asn": "16509",
-      "rdap_prefix": "199.59.243.0/24",
-      "rdap_org": "BODIS-A",
-      "rdap_country": "US",
+      "rdap_asn": null,
+      "rdap_prefix": null,
+      "rdap_org": null,
+      "rdap_country": null,
       "online": false,
       "dgad_is_dga": false,
       "dgad_binary_score": 0.001173951430246234,
@@ -22731,8 +22725,8 @@
       "whois_registrant_phone": null,
       "whois_registrant_fax": null,
       "rdap_asn": "16509",
-      "rdap_prefix": "76.223.0.0/17, 76.223.128.0/19, 76.223.160.0/20",
-      "rdap_org": "AMAZO-4",
+      "rdap_prefix": "13.244.0.0/14, 13.248.0.0/14",
+      "rdap_org": "AT-88-Z",
       "rdap_country": "US",
       "online": false,
       "dgad_is_dga": false,
@@ -22779,10 +22773,10 @@
       "whois_registrant_address": null,
       "whois_registrant_phone": null,
       "whois_registrant_fax": null,
-      "rdap_asn": null,
-      "rdap_prefix": null,
-      "rdap_org": null,
-      "rdap_country": null,
+      "rdap_asn": "22612",
+      "rdap_prefix": "162.255.116.0/22",
+      "rdap_org": "NCNET-5",
+      "rdap_country": "US",
       "online": false,
       "dgad_is_dga": false,
       "dgad_binary_score": 0.0001227726461365819,
