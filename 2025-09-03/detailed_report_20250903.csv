@@ -1,6 +1,6 @@
 domain,source,matched_categories,matched_keywords,online,whois_registrar,whois_tld,whois_whois_server,whois_referral_url,whois_creation_dates,whois_updated_dates,whois_expiration_dates,whois_status,whois_nameservers,whois_dnssec,whois_emails,whois_registrant_name,whois_registrant_org,whois_registrant_country,whois_registrant_state,whois_registrant_city,whois_registrant_address,whois_registrant_phone,whois_registrant_fax,dgad_is_dga,dgad_binary_label,dgad_binary_score,dgad_family_label,dgad_family_score,timestamp
 0-pi6mz.net,ICANN,blacklistKeywords_phishing,id,False,,net,,,,,,,,,,,,,,,,,,False,benign,7.413771527353674e-05,N/A,0.0,2025-09-03T01:39:26.162309
-0.org,ICANN,blacklistKeywords_phishing,id,True,"Name.com, Inc.",org,http://whois.name.com,,1993-12-01T05:00:00,2023-07-10T23:36:49,2029-12-08T16:53:36,serverdeleteprohibited https://icann.org/epp#serverdeleteprohibited;clienttransferprohibited https://icann.org/epp#clienttransferprohibited,ns1.uniregistrymarket.link;ns2.uniregistrymarket.link,unsigned,abuse@name.com,REDACTED,"Domain Protection Services, Inc.",US,CO,REDACTED,REDACTED,,,False,benign,7.7883290941827e-05,N/A,0.0,2025-09-03T01:39:26.990714
+0.org,ICANN,blacklistKeywords_phishing,id,False,,org,,,,,,,,,,,,,,,,,,False,benign,7.7883290941827e-05,N/A,0.0,2025-09-03T01:39:26.990714
 00is-6ig3y-qofk7h.net,ICANN,blacklistKeywords_phishing,id,False,,net,,,,,,,,,,,,,,,,,,False,benign,0.013361332006752491,N/A,0.0,2025-09-03T01:39:26.357116
 01yog2-op53.app,ICANN,blacklistKeywords_phishing,id,False,,app,,,,,,,,,,,,,,,,,,False,benign,0.00017835393373388797,N/A,0.0,2025-09-03T01:39:26.657160
 09bp-9w-wft.com,ICANN,blacklistKeywords_phishing,id,False,,com,,,,,,,,,,,,,,,,,,False,benign,5.250421600067057e-05,N/A,0.0,2025-09-03T01:39:26.538644
@@ -31,7 +31,7 @@ domain,source,matched_categories,matched_keywords,online,whois_registrar,whois_t
 1v5ejr-ni-xhy.io,ICANN,blacklistKeywords_phishing,id,False,,io,,,,,,,,,,,,,,,,,,False,benign,0.015521146357059479,N/A,0.0,2025-09-03T01:39:26.022681
 1v926.xyz,ICANN,blacklistKeywords_phishing,id,False,,xyz,,,,,,,,,,,,,,,,,,False,benign,0.00010921085777226835,N/A,0.0,2025-09-03T01:39:26.924368
 1zlh.org,ICANN,blacklistKeywords_phishing,id,False,,org,,,,,,,,,,,,,,,,,,False,benign,4.013263605884276e-05,N/A,0.0,2025-09-03T01:39:26.015133
-2.com,ICANN,blacklistKeywords_phishing,id,True,RESERVED-Internet Assigned Numbers Authority,com,whois.iana.org,,1993-12-01T05:00:00,2024-12-09T08:22:32,2025-12-08T16:38:11,serverdeleteprohibited https://icann.org/epp#serverdeleteprohibited;servertransferprohibited https://icann.org/epp#servertransferprohibited;serverupdateprohibited https://icann.org/epp#serverupdateprohibited,,unsigned,,,,,,,,,,False,benign,7.205624569905922e-05,N/A,0.0,2025-09-03T01:39:26.335027
+2.com,ICANN,blacklistKeywords_phishing,id,False,,com,,,,,,,,,,,,,,,,,,False,benign,7.205624569905922e-05,N/A,0.0,2025-09-03T01:39:26.335027
 202n-1s.dev,ICANN,blacklistKeywords_phishing,id,False,,dev,,,,,,,,,,,,,,,,,,False,benign,3.4993670851690695e-05,N/A,0.0,2025-09-03T01:39:26.020237
 21dxtr-s15sj-6auw9.com,ICANN,blacklistKeywords_phishing,id,False,,com,,,,,,,,,,,,,,,,,,False,benign,2.4004846636671573e-05,N/A,0.0,2025-09-03T01:39:26.132581
 22-cv-jnl7c4.dev,ICANN,blacklistKeywords_phishing,id,False,,dev,,,,,,,,,,,,,,,,,,False,benign,4.773051114170812e-05,N/A,0.0,2025-09-03T01:39:26.384831
@@ -53,7 +53,7 @@ domain,source,matched_categories,matched_keywords,online,whois_registrar,whois_t
 3-e8b6y-3a2fw3.app,ICANN,blacklistKeywords_phishing,id,False,,app,,,,,,,,,,,,,,,,,,True,DGA,0.9895148277282715,benign,0.8779357671737671,2025-09-03T01:39:26.971839
 3-veoeb1.io,ICANN,blacklistKeywords_phishing,id,False,,io,,,,,,,,,,,,,,,,,,False,benign,0.00733573641628027,N/A,0.0,2025-09-03T01:39:26.975423
 3.org,ICANN,blacklistKeywords_phishing,id,False,,org,,,,,,,,,,,,,,,,,,False,benign,6.315417704172432e-05,N/A,0.0,2025-09-03T01:39:26.780694
-33.net,ICANN,blacklistKeywords_phishing,id,False,,net,,,,,,,,,,,,,,,,,,False,benign,5.074827276985161e-05,N/A,0.0,2025-09-03T01:39:26.308566
+33.net,ICANN,blacklistKeywords_phishing,id,True,"GoDaddy.com, LLC",net,whois.godaddy.com,,1997-05-04T23:00:00;1997-05-05T04:00:00,2022-10-28T05:05:13;2022-10-28T10:05:15,2029-05-05T23:00:00;2029-05-06T04:00:00,clientdeleteprohibited https://icann.org/epp#clientdeleteprohibited;clientrenewprohibited https://icann.org/epp#clientrenewprohibited;clienttransferprohibited https://icann.org/epp#clienttransferprohibited;clientupdateprohibited https://icann.org/epp#clientupdateprohibited,freedns1.registrar-servers.com;freedns2.registrar-servers.com;freedns3.registrar-servers.com;freedns4.registrar-servers.com;freedns5.registrar-servers.com,unsigned,abuse@godaddy.com,Registration Private,"Domains By Proxy, LLC",US,Arizona,Tempe,DomainsByProxy.com,,,False,benign,5.074827276985161e-05,N/A,0.0,2025-09-03T01:39:26.308566
 396x6q-b.xyz,ICANN,blacklistKeywords_phishing,id,False,,xyz,,,,,,,,,,,,,,,,,,False,benign,0.007619104813784361,N/A,0.0,2025-09-03T01:39:26.220239
 3b56e-08.net,ICANN,blacklistKeywords_phishing,id,False,,net,,,,,,,,,,,,,,,,,,False,benign,0.47886374592781067,N/A,0.0,2025-09-03T01:39:26.292699
 3bsiqe.xyz,ICANN,blacklistKeywords_phishing,id,False,,xyz,,,,,,,,,,,,,,,,,,False,benign,0.25891777873039246,N/A,0.0,2025-09-03T01:39:26.107648
@@ -82,15 +82,15 @@ domain,source,matched_categories,matched_keywords,online,whois_registrar,whois_t
 51vk-gn-ldy.com,ICANN,blacklistKeywords_phishing,id,False,,com,,,,,,,,,,,,,,,,,,False,benign,3.0168823286658153e-05,N/A,0.0,2025-09-03T01:39:26.748929
 52082e.net,ICANN,blacklistKeywords_phishing,id,False,,net,,,,,,,,,,,,,,,,,,False,benign,0.06620419770479202,N/A,0.0,2025-09-03T01:39:26.495458
 57qik-4brv8-z4.io,ICANN,blacklistKeywords_phishing,id,False,,io,,,,,,,,,,,,,,,,,,True,DGA,0.8882303833961487,benign,0.7072544693946838,2025-09-03T01:39:26.051565
-58do.xyz,ICANN,blacklistKeywords_phishing,id,False,,xyz,,,,,,,,,,,,,,,,,,False,benign,3.2577605452388525e-05,N/A,0.0,2025-09-03T01:39:26.866262
+58do.xyz,ICANN,blacklistKeywords_phishing,id,True,,xyz,,,,,,,,,,,,,,,,,,False,benign,3.2577605452388525e-05,N/A,0.0,2025-09-03T01:39:26.866262
 5gcyp8-yd1ijb.app,ICANN,blacklistKeywords_phishing,id,False,,app,,,,,,,,,,,,,,,,,,True,DGA,0.8726462721824646,benign,0.6815752983093262,2025-09-03T01:39:26.945867
 5kh4my-t72mk.app,ICANN,blacklistKeywords_phishing,id,False,,app,,,,,,,,,,,,,,,,,,False,benign,0.3381587862968445,N/A,0.0,2025-09-03T01:39:26.453616
-5p.io,ICANN,blacklistKeywords_phishing,id,True,"Cloudflare, Inc",io,,,2014-11-22T17:20:58,2024-10-28T04:01:50,2025-11-22T17:20:58,clienttransferprohibited https://icann.org/epp#clienttransferprohibited,kip.ns.cloudflare.com;kay.ns.cloudflare.com,,,,,HK,,,,,,False,benign,7.634045323356986e-05,N/A,0.0,2025-09-03T01:39:26.486652
+5p.io,ICANN,blacklistKeywords_phishing,id,False,,io,,,,,,,,,,,,,,,,,,False,benign,7.634045323356986e-05,N/A,0.0,2025-09-03T01:39:26.486652
 5q-cd.net,ICANN,blacklistKeywords_phishing,id,False,,net,,,,,,,,,,,,,,,,,,False,benign,3.078798545175232e-05,N/A,0.0,2025-09-03T01:39:26.776391
 5zfom3-5e.app,ICANN,blacklistKeywords_phishing,id,False,,app,,,,,,,,,,,,,,,,,,False,benign,0.00018574394925963134,N/A,0.0,2025-09-03T01:39:26.927057
 6-x1y.io,ICANN,blacklistKeywords_phishing,id,False,,io,,,,,,,,,,,,,,,,,,False,benign,6.436703552026302e-05,N/A,0.0,2025-09-03T01:39:26.224686
-6.io,ICANN,blacklistKeywords_phishing,id,False,,io,,,,,,,,,,,,,,,,,,False,benign,8.028016600292176e-05,N/A,0.0,2025-09-03T01:39:26.271709
-6.xyz,ICANN,blacklistKeywords_phishing,id,False,,xyz,,,,,,,,,,,,,,,,,,False,benign,8.028016600292176e-05,N/A,0.0,2025-09-03T01:39:26.042936
+6.io,ICANN,blacklistKeywords_phishing,id,True,NAMECHEAP INC,io,,,2003-09-29T10:24:02,2024-01-25T12:55:28;2025-04-08T17:38:53,2028-04-30T12:00:00,clienttransferprohibited https://icann.org/epp#clienttransferprohibited;transferperiod https://icann.org/epp#transferperiod,ns1.atom.com;ns2.atom.com,,,DomainBooth FZE LLC,,AE,,,,,,False,benign,8.028016600292176e-05,N/A,0.0,2025-09-03T01:39:26.271709
+6.xyz,ICANN,blacklistKeywords_phishing,id,True,"Chengdu west dimension digital technology Co., LTD",xyz,whois.west.cn,,2015-11-24T09:49:52,2015-11-24T09:49:52;2023-08-31T16:50:19,2026-11-24T23:59:59,clienttransferprohibited https://icann.org/epp#clienttransferprohibited;ok http://www.icann.org/epp#ok,ns1.4.cn;ns2.4.cn,unsigned,abuse@west.cn;westabuse@gmail.com,REDACTED FOR PRIVACY,REDACTED FOR PRIVACY,CN,Shan Dong,REDACTED FOR PRIVACY,REDACTED FOR PRIVACY,,,False,benign,8.028016600292176e-05,N/A,0.0,2025-09-03T01:39:26.042936
 6002k6-8n5l-8chs.org,ICANN,blacklistKeywords_phishing,id,False,,org,,,,,,,,,,,,,,,,,,False,benign,6.992329144850373e-05,N/A,0.0,2025-09-03T01:39:26.738825
 61wepi.org,ICANN,blacklistKeywords_phishing,id,False,,org,,,,,,,,,,,,,,,,,,False,benign,0.020666347816586494,N/A,0.0,2025-09-03T01:39:26.381065
 68bk4-6g.xyz,ICANN,blacklistKeywords_phishing,id,False,,xyz,,,,,,,,,,,,,,,,,,False,benign,0.06868764013051987,N/A,0.0,2025-09-03T01:39:26.660650
@@ -121,7 +121,7 @@ domain,source,matched_categories,matched_keywords,online,whois_registrar,whois_t
 87e.app,ICANN,blacklistKeywords_phishing,id,False,,app,,,,,,,,,,,,,,,,,,False,benign,3.915054912795313e-05,N/A,0.0,2025-09-03T01:39:26.581424
 8bxt-q2.xyz,ICANN,blacklistKeywords_phishing,id,False,,xyz,,,,,,,,,,,,,,,,,,False,benign,3.9296686736634e-05,N/A,0.0,2025-09-03T01:39:26.461496
 8d0zgl.app,ICANN,blacklistKeywords_phishing,id,False,,app,,,,,,,,,,,,,,,,,,False,benign,0.11089113354682922,N/A,0.0,2025-09-03T01:39:26.321762
-8f.com,ICANN,blacklistKeywords_phishing,id,True,"GoDaddy.com, LLC",com,whois.godaddy.com,,1998-10-13T23:00:00;1998-10-14T04:00:00,2025-03-08T08:18:11;2025-03-13T07:43:00,2029-10-12T23:00:00;2029-10-13T04:00:00,clientdeleteprohibited https://icann.org/epp#clientdeleteprohibited;clientrenewprohibited https://icann.org/epp#clientrenewprohibited;clienttransferprohibited https://icann.org/epp#clienttransferprohibited;clientupdateprohibited https://icann.org/epp#clientupdateprohibited,ns37.domaincontrol.com;ns38.domaincontrol.com,unsigned,abuse@godaddy.com,Registration Private,"Domains By Proxy, LLC",US,Arizona,Tempe,DomainsByProxy.com,,,False,benign,0.0001253181544598192,N/A,0.0,2025-09-03T01:39:26.568537
+8f.com,ICANN,blacklistKeywords_phishing,id,False,,com,,,,,,,,,,,,,,,,,,False,benign,0.0001253181544598192,N/A,0.0,2025-09-03T01:39:26.568537
 8j9i-hdp1y.com,ICANN,blacklistKeywords_phishing,id,False,,com,,,,,,,,,,,,,,,,,,False,benign,0.00017197200213558972,N/A,0.0,2025-09-03T01:39:26.731588
 8n-5bl-m21u.net,ICANN,blacklistKeywords_phishing,id,False,,net,,,,,,,,,,,,,,,,,,False,benign,2.9999897378729656e-05,N/A,0.0,2025-09-03T01:39:26.259768
 8nn5-i5-xry1.app,ICANN,blacklistKeywords_phishing,id,False,,app,,,,,,,,,,,,,,,,,,False,benign,0.00021040425053797662,N/A,0.0,2025-09-03T01:39:26.230100
@@ -180,7 +180,7 @@ ct-91b11p.app,ICANN,blacklistKeywords_phishing,id,False,,app,,,,,,,,,,,,,,,,,,Fa
 ct.com,ICANN,blacklistKeywords_phishing,id,False,,com,,,,,,,,,,,,,,,,,,False,benign,0.00023791436979081482,N/A,0.0,2025-09-03T01:39:26.651083
 ctig-9vr4-a5b.dev,ICANN,blacklistKeywords_phishing,id,False,,dev,,,,,,,,,,,,,,,,,,False,benign,0.019750233739614487,N/A,0.0,2025-09-03T01:39:26.805087
 cv5.net,ICANN,blacklistKeywords_phishing,id,True,,net,,,,,,,,,,,,,,,,,,False,benign,4.17285664298106e-05,N/A,0.0,2025-09-03T01:39:26.423463
-cxb.app,ICANN,blacklistKeywords_phishing,id,False,,app,,,,,,,,,,,,,,,,,,False,benign,7.986782293301076e-05,N/A,0.0,2025-09-03T01:39:26.321817
+cxb.app,ICANN,blacklistKeywords_phishing,id,True,,app,,,,,,,,,,,,,,,,,,False,benign,7.986782293301076e-05,N/A,0.0,2025-09-03T01:39:26.321817
 cyoojp-ml5ii2-ioyry.dev,ICANN,blacklistKeywords_phishing,id,False,,dev,,,,,,,,,,,,,,,,,,False,benign,0.42507490515708923,N/A,0.0,2025-09-03T01:39:26.606444
 d-p2z8-cvk2m.xyz,ICANN,blacklistKeywords_phishing,id,False,,xyz,,,,,,,,,,,,,,,,,,False,benign,0.00013356664567254484,N/A,0.0,2025-09-03T01:39:26.323150
 d.io,ICANN,blacklistKeywords_phishing,id,False,,io,,,,,,,,,,,,,,,,,,False,benign,0.0002527251490391791,N/A,0.0,2025-09-03T01:39:26.043359
@@ -197,7 +197,7 @@ de.app,ICANN,blacklistKeywords_phishing,id,False,,app,,,,,,,,,,,,,,,,,,False,ben
 dy3se-mtza-y.org,ICANN,blacklistKeywords_phishing,id,False,,org,,,,,,,,,,,,,,,,,,False,benign,0.03857908025383949,N/A,0.0,2025-09-03T01:39:26.195097
 dzjc-f-oa.xyz,ICANN,blacklistKeywords_phishing,id,False,,xyz,,,,,,,,,,,,,,,,,,False,benign,6.654128810623661e-05,N/A,0.0,2025-09-03T01:39:26.830395
 e-47x-a.net,ICANN,blacklistKeywords_phishing,id,False,,net,,,,,,,,,,,,,,,,,,False,benign,4.4770211388822645e-05,N/A,0.0,2025-09-03T01:39:26.269684
-e.com,ICANN,blacklistKeywords_phishing,id,True,RESERVED-Internet Assigned Numbers Authority,com,whois.iana.org,,1993-12-01T05:00:00,2024-12-09T08:23:35,2025-12-08T17:05:02,serverdeleteprohibited https://icann.org/epp#serverdeleteprohibited;servertransferprohibited https://icann.org/epp#servertransferprohibited;serverupdateprohibited https://icann.org/epp#serverupdateprohibited,,unsigned,,,,,,,,,,False,benign,0.00025132764130830765,N/A,0.0,2025-09-03T01:39:26.513960
+e.com,ICANN,blacklistKeywords_phishing,id,False,,com,,,,,,,,,,,,,,,,,,False,benign,0.00025132764130830765,N/A,0.0,2025-09-03T01:39:26.513960
 e20-os8zb-vgkb.net,ICANN,blacklistKeywords_phishing,id,False,,net,,,,,,,,,,,,,,,,,,False,benign,0.0007149529992602766,N/A,0.0,2025-09-03T01:39:26.192645
 e2mxq.net,ICANN,blacklistKeywords_phishing,id,False,,net,,,,,,,,,,,,,,,,,,True,DGA,0.569787323474884,conficker,0.352693110704422,2025-09-03T01:39:26.147194
 e8x9xo.dev,ICANN,blacklistKeywords_phishing,id,False,,dev,,,,,,,,,,,,,,,,,,True,DGA,0.9812401533126831,benign,0.7055160999298096,2025-09-03T01:39:26.094998
@@ -215,7 +215,7 @@ f6cedt-ifdx.com,ICANN,blacklistKeywords_phishing,id,False,,com,,,,,,,,,,,,,,,,,,
 f8-y2d.net,ICANN,blacklistKeywords_phishing,id,False,,net,,,,,,,,,,,,,,,,,,False,benign,4.126202475163154e-05,N/A,0.0,2025-09-03T01:39:26.081823
 f9-3nuzrr-ifb7.net,ICANN,blacklistKeywords_phishing,id,False,,net,,,,,,,,,,,,,,,,,,False,benign,0.0001104617040255107,N/A,0.0,2025-09-03T01:39:26.153795
 fc-s-mw8kq.dev,ICANN,blacklistKeywords_phishing,id,False,,dev,,,,,,,,,,,,,,,,,,False,benign,2.5476241717115045e-05,N/A,0.0,2025-09-03T01:39:26.988762
-fdw.io,ICANN,blacklistKeywords_phishing,id,False,,io,,,,,,,,,,,,,,,,,,False,benign,0.00011126674507977441,N/A,0.0,2025-09-03T01:39:26.793365
+fdw.io,ICANN,blacklistKeywords_phishing,id,True,"Sav.com, LLC",io,,,2019-08-31T10:09:49,2025-08-31T10:10:15,2026-08-31T10:09:49,clienttransferprohibited https://icann.org/epp#clienttransferprohibited;autorenewperiod https://icann.org/epp#autorenewperiod,ns1.afternic.com;ns2.afternic.com,,,Privacy Protection,,US,,,,,,False,benign,0.00011126674507977441,N/A,0.0,2025-09-03T01:39:26.793365
 fe-t1u-5b7uko.io,ICANN,blacklistKeywords_phishing,id,False,,io,,,,,,,,,,,,,,,,,,False,benign,5.182657696423121e-05,N/A,0.0,2025-09-03T01:39:26.463384
 fjxo-0ui2.app,ICANN,blacklistKeywords_phishing,id,False,,app,,,,,,,,,,,,,,,,,,False,benign,0.00029423838714137673,N/A,0.0,2025-09-03T01:39:26.099914
 fuwr0-m45pj1.dev,ICANN,blacklistKeywords_phishing,id,False,,dev,,,,,,,,,,,,,,,,,,True,DGA,0.9595781564712524,benign,0.49114492535591125,2025-09-03T01:39:26.128337
@@ -360,7 +360,7 @@ p-vpie7g-at684.net,ICANN,blacklistKeywords_phishing,id,False,,net,,,,,,,,,,,,,,,
 p-xjtf.com,ICANN,blacklistKeywords_phishing,id,False,,com,,,,,,,,,,,,,,,,,,False,benign,0.02076936513185501,N/A,0.0,2025-09-03T01:39:26.373721
 p.dev,ICANN,blacklistKeywords_phishing,id,False,,dev,,,,,,,,,,,,,,,,,,False,benign,0.000203963034437038,N/A,0.0,2025-09-03T01:39:26.889691
 p.net,ICANN,blacklistKeywords_phishing,id,False,,net,,,,,,,,,,,,,,,,,,False,benign,0.000203963034437038,N/A,0.0,2025-09-03T01:39:26.419853
-p.net,ICANN,blacklistKeywords_phishing,id,True,RESERVED-Internet Assigned Numbers Authority,net,whois.iana.org,,1993-12-01T05:00:00,2024-12-09T08:23:29,2025-12-08T17:02:51,serverdeleteprohibited https://icann.org/epp#serverdeleteprohibited;servertransferprohibited https://icann.org/epp#servertransferprohibited;serverupdateprohibited https://icann.org/epp#serverupdateprohibited,,unsigned,,,,,,,,,,False,benign,0.000203963034437038,N/A,0.0,2025-09-03T01:39:26.356185
+p.net,ICANN,blacklistKeywords_phishing,id,False,,net,,,,,,,,,,,,,,,,,,False,benign,0.000203963034437038,N/A,0.0,2025-09-03T01:39:26.356185
 p2.app,ICANN,blacklistKeywords_phishing,id,False,,app,,,,,,,,,,,,,,,,,,False,benign,8.477902156300843e-05,N/A,0.0,2025-09-03T01:39:26.294857
 p3ms-svu-j.org,ICANN,blacklistKeywords_phishing,id,False,,org,,,,,,,,,,,,,,,,,,False,benign,0.00012798243551515043,N/A,0.0,2025-09-03T01:39:26.775837
 pdbesx.xyz,ICANN,blacklistKeywords_phishing,id,False,,xyz,,,,,,,,,,,,,,,,,,True,DGA,0.7515666484832764,conficker,0.9319639205932617,2025-09-03T01:39:26.880295
@@ -383,12 +383,12 @@ qyc.org,ICANN,blacklistKeywords_phishing,id,True,,org,,,,,,,,,,,,,,,,,,False,ben
 r-yl5stl.com,ICANN,blacklistKeywords_phishing,id,False,,com,,,,,,,,,,,,,,,,,,False,benign,0.0012109989766031504,N/A,0.0,2025-09-03T01:39:26.240039
 r-zt3pw.dev,ICANN,blacklistKeywords_phishing,id,False,,dev,,,,,,,,,,,,,,,,,,False,benign,0.00010616673534968868,N/A,0.0,2025-09-03T01:39:26.536697
 r.com,ICANN,blacklistKeywords_phishing,id,False,,com,,,,,,,,,,,,,,,,,,False,benign,0.0006956241559237242,N/A,0.0,2025-09-03T01:39:26.496954
-r0.io,ICANN,blacklistKeywords_phishing,id,True,NAMECHEAP INC,io,,,2016-05-07T00:30:14,2021-10-13T17:27:51,2026-05-07T00:30:14,ok https://icann.org/epp#ok,a.dns.park.io;b.dns.park.io,,,Privacy service provided by Withheld for Privacy ehf,,IS,,,,,,False,benign,0.0001455938327126205,N/A,0.0,2025-09-03T01:39:26.474210
+r0.io,ICANN,blacklistKeywords_phishing,id,False,,io,,,,,,,,,,,,,,,,,,False,benign,0.0001455938327126205,N/A,0.0,2025-09-03T01:39:26.474210
 r0e.app,ICANN,blacklistKeywords_phishing,id,False,,app,,,,,,,,,,,,,,,,,,False,benign,6.798988761147484e-05,N/A,0.0,2025-09-03T01:39:26.128745
 r0qfh-x6i39-qn.com,ICANN,blacklistKeywords_phishing,id,False,,com,,,,,,,,,,,,,,,,,,True,DGA,0.9841382503509521,urlzone,0.8278335332870483,2025-09-03T01:39:26.932173
 r5c1-2jy6.net,ICANN,blacklistKeywords_phishing,id,False,,net,,,,,,,,,,,,,,,,,,False,benign,4.5219334424473345e-05,N/A,0.0,2025-09-03T01:39:26.476273
 r7oqob-xnjlk-e471sd.org,ICANN,blacklistKeywords_phishing,id,False,,org,,,,,,,,,,,,,,,,,,False,benign,8.520630944985896e-05,N/A,0.0,2025-09-03T01:39:26.284074
-ra6.io,ICANN,blacklistKeywords_phishing,id,False,,io,,,,,,,,,,,,,,,,,,False,benign,3.9745256799506024e-05,N/A,0.0,2025-09-03T01:39:26.241961
+ra6.io,ICANN,blacklistKeywords_phishing,id,True,,io,,,,,,,,,,,,,,,,,,False,benign,3.9745256799506024e-05,N/A,0.0,2025-09-03T01:39:26.241961
 rm-8j2ey.dev,ICANN,blacklistKeywords_phishing,id,False,,dev,,,,,,,,,,,,,,,,,,False,benign,2.547543954278808e-05,N/A,0.0,2025-09-03T01:39:26.786169
 rrv-etz-pl0bo.dev,ICANN,blacklistKeywords_phishing,id,False,,dev,,,,,,,,,,,,,,,,,,False,benign,0.014736199751496315,N/A,0.0,2025-09-03T01:39:26.009154
 rs-h-f723.io,ICANN,blacklistKeywords_phishing,id,False,,io,,,,,,,,,,,,,,,,,,False,benign,2.6226833142573014e-05,N/A,0.0,2025-09-03T01:39:26.657656
@@ -397,7 +397,7 @@ rvzo-m8uakn-dpbzd4.com,ICANN,blacklistKeywords_phishing,id,False,,com,,,,,,,,,,,
 rygjx-28vm9.net,ICANN,blacklistKeywords_phishing,id,False,,net,,,,,,,,,,,,,,,,,,True,DGA,0.9923465251922607,urlzone,0.9897559285163879,2025-09-03T01:39:26.156519
 ryzsbw.app,ICANN,blacklistKeywords_phishing,id,False,,app,,,,,,,,,,,,,,,,,,True,DGA,0.9714516401290894,pykspa,0.37705719470977783,2025-09-03T01:39:26.069781
 s-vbn9bm.io,ICANN,blacklistKeywords_phishing,id,False,,io,,,,,,,,,,,,,,,,,,False,benign,0.014183982275426388,N/A,0.0,2025-09-03T01:39:26.694802
-s7f.net,ICANN,blacklistKeywords_phishing,id,False,,net,,,,,,,,,,,,,,,,,,False,benign,5.218509249971248e-05,N/A,0.0,2025-09-03T01:39:26.226744
+s7f.net,ICANN,blacklistKeywords_phishing,id,True,"Chengdu west dimension digital technology Co., LTD",net,whois.west.cn,,2015-03-09T14:08:44,2015-03-09T14:08:44;2025-02-07T07:42:24,2026-03-09T14:08:44,ok https://icann.org/epp#ok;ok http://www.icann.org/epp#ok,dns10.hichina.com;dns9.hichina.com,unsigned,abuse@west.cn;westabuse@gmail.com,REDACTED FOR PRIVACY,REDACTED FOR PRIVACY,CN,Hu Bei,REDACTED FOR PRIVACY,REDACTED FOR PRIVACY,,,False,benign,5.218509249971248e-05,N/A,0.0,2025-09-03T01:39:26.226744
 saj3-a-e.xyz,ICANN,blacklistKeywords_phishing,id,False,,xyz,,,,,,,,,,,,,,,,,,False,benign,4.7896886826492846e-05,N/A,0.0,2025-09-03T01:39:26.652706
 sfa-8kb-6z.xyz,ICANN,blacklistKeywords_phishing,id,False,,xyz,,,,,,,,,,,,,,,,,,False,benign,3.217456105630845e-05,N/A,0.0,2025-09-03T01:39:26.983134
 sjnyt.app,ICANN,blacklistKeywords_phishing,id,False,,app,,,,,,,,,,,,,,,,,,False,benign,0.2516803741455078,N/A,0.0,2025-09-03T01:39:26.654929
@@ -407,7 +407,7 @@ smy-pixx8.io,ICANN,blacklistKeywords_phishing,id,False,,io,,,,,,,,,,,,,,,,,,Fals
 sn7x-pxa.com,ICANN,blacklistKeywords_phishing,id,False,,com,,,,,,,,,,,,,,,,,,False,benign,0.00012565894576255232,N/A,0.0,2025-09-03T01:39:26.156601
 sp-1bmot-l.dev,ICANN,blacklistKeywords_phishing,id,False,,dev,,,,,,,,,,,,,,,,,,False,benign,3.633670712588355e-05,N/A,0.0,2025-09-03T01:39:26.559080
 sqnpqw.io,ICANN,blacklistKeywords_phishing,id,False,,io,,,,,,,,,,,,,,,,,,True,DGA,0.9799468517303467,conficker,0.5501383543014526,2025-09-03T01:39:26.419984
-st.io,ICANN,blacklistKeywords_phishing,id,True,Divido Ltd,io,,,2003-09-22T14:12:09,2003-09-22T14:12:09,2027-04-30T12:00:00,ok https://icann.org/epp#ok,l1.ns.divido.org;l2.ns.divido.org,,,Divido Ltd,,GB,,,,,,False,benign,0.00011726613593054935,N/A,0.0,2025-09-03T01:39:26.735410
+st.io,ICANN,blacklistKeywords_phishing,id,False,,io,,,,,,,,,,,,,,,,,,False,benign,0.00011726613593054935,N/A,0.0,2025-09-03T01:39:26.735410
 sv-ll.com,ICANN,blacklistKeywords_phishing,id,False,,com,,,,,,,,,,,,,,,,,,False,benign,5.262612467049621e-05,N/A,0.0,2025-09-03T01:39:26.535927
 szu7s-i6d.net,ICANN,blacklistKeywords_phishing,id,False,,net,,,,,,,,,,,,,,,,,,False,benign,0.0070451102219522,N/A,0.0,2025-09-03T01:39:26.555745
 t-jgxdg-m9jgs.com,ICANN,blacklistKeywords_phishing,id,False,,com,,,,,,,,,,,,,,,,,,False,benign,0.08958159387111664,N/A,0.0,2025-09-03T01:39:26.918947
@@ -415,10 +415,10 @@ t-m-iyf2.org,ICANN,blacklistKeywords_phishing,id,False,,org,,,,,,,,,,,,,,,,,,Fal
 t4y-vsd3u7-ak.org,ICANN,blacklistKeywords_phishing,id,False,,org,,,,,,,,,,,,,,,,,,False,benign,0.018608685582876205,N/A,0.0,2025-09-03T01:39:26.072268
 t5d.app,ICANN,blacklistKeywords_phishing,id,False,,app,,,,,,,,,,,,,,,,,,False,benign,9.107069490710273e-05,N/A,0.0,2025-09-03T01:39:26.752516
 t5r9i.com,ICANN,blacklistKeywords_phishing,id,False,,com,,,,,,,,,,,,,,,,,,False,benign,0.47838082909584045,N/A,0.0,2025-09-03T01:39:26.239008
-tbq.io,ICANN,blacklistKeywords_phishing,id,False,,io,,,,,,,,,,,,,,,,,,False,benign,8.813341264612973e-05,N/A,0.0,2025-09-03T01:39:26.915161
+tbq.io,ICANN,blacklistKeywords_phishing,id,True,Key-Systems GmbH,io,,,2017-11-10T13:37:01,2024-12-25T13:37:35,2025-11-10T13:37:01,ok https://icann.org/epp#ok,ns0.transip.net;ns1.transip.nl;ns2.transip.eu,,,Pro4all,,NL,,,,,,False,benign,8.813341264612973e-05,N/A,0.0,2025-09-03T01:39:26.915161
 tcej-h7i-gapdhe.net,ICANN,blacklistKeywords_phishing,id,False,,net,,,,,,,,,,,,,,,,,,False,benign,0.07789206504821777,N/A,0.0,2025-09-03T01:39:26.413909
 tck-aw.com,ICANN,blacklistKeywords_phishing,id,False,,com,,,,,,,,,,,,,,,,,,False,benign,0.00021748262224718928,N/A,0.0,2025-09-03T01:39:26.015970
-tla.org,ICANN,blacklistKeywords_phishing,id,True,"Network Solutions, LLC",org,whois.networksolutions.com,,1993-08-31T04:00:00,2022-08-03T14:45:44;2025-01-16T09:39:12,2031-08-30T04:00:00,clienttransferprohibited https://icann.org/epp#clienttransferprohibited,ns91.worldnic.com;ns92.worldnic.com,unsigned,domain.operations@web.com;qr7fc3yb4u9@networksolutionsprivateregistration.com,REDACTED,,GR,redacted,REDACTED,REDACTED,,,False,benign,7.217508391477168e-05,N/A,0.0,2025-09-03T01:39:26.936614
+tla.org,ICANN,blacklistKeywords_phishing,id,False,,org,,,,,,,,,,,,,,,,,,False,benign,7.217508391477168e-05,N/A,0.0,2025-09-03T01:39:26.936614
 to.xyz,ICANN,blacklistKeywords_phishing,id,False,,xyz,,,,,,,,,,,,,,,,,,False,benign,0.00012150018301326782,N/A,0.0,2025-09-03T01:39:26.438812
 tp4fl-t-2v3.app,ICANN,blacklistKeywords_phishing,id,False,,app,,,,,,,,,,,,,,,,,,False,benign,0.0001302306045545265,N/A,0.0,2025-09-03T01:39:26.153388
 tr-a-hice.com,ICANN,blacklistKeywords_phishing,id,False,,com,,,,,,,,,,,,,,,,,,False,benign,2.6723499104264192e-05,N/A,0.0,2025-09-03T01:39:26.815135
@@ -426,7 +426,7 @@ tv-1pqs.org,ICANN,blacklistKeywords_phishing,id,False,,org,,,,,,,,,,,,,,,,,,Fals
 tx-lrebz.net,ICANN,blacklistKeywords_phishing,id,False,,net,,,,,,,,,,,,,,,,,,False,benign,5.198884173296392e-05,N/A,0.0,2025-09-03T01:39:26.390099
 txpok.dev,ICANN,blacklistKeywords_phishing,id,False,,dev,,,,,,,,,,,,,,,,,,False,benign,0.09899669140577316,N/A,0.0,2025-09-03T01:39:26.830152
 u-0wvh1.io,ICANN,blacklistKeywords_phishing,id,False,,io,,,,,,,,,,,,,,,,,,False,benign,0.008544422686100006,N/A,0.0,2025-09-03T01:39:26.941935
-u2.org,ICANN,blacklistKeywords_phishing,id,False,,org,,,,,,,,,,,,,,,,,,False,benign,0.00017228319484274834,N/A,0.0,2025-09-03T01:39:26.299938
+u2.org,ICANN,blacklistKeywords_phishing,id,True,"Network Solutions, LLC",org,whois.networksolutions.com,,1998-12-02T05:00:00,2024-10-03T14:21:57;2024-10-08T14:22:05,2027-12-01T05:00:00,clienttransferprohibited https://icann.org/epp#clienttransferprohibited,ns-1256.awsdns-29.org;ns-1993.awsdns-57.co.uk;ns-370.awsdns-46.com;ns-952.awsdns-55.net,unsigned,domain.operations@web.com;dataprotected@maskeddetails.com,REDACTED,NOT US LIMITED,IE,,REDACTED,REDACTED,,,False,benign,0.00017228319484274834,N/A,0.0,2025-09-03T01:39:26.299938
 u4.app,ICANN,blacklistKeywords_phishing,id,False,,app,,,,,,,,,,,,,,,,,,False,benign,0.00014660885790362954,N/A,0.0,2025-09-03T01:39:26.545299
 ud-x.io,ICANN,blacklistKeywords_phishing,id,False,,io,,,,,,,,,,,,,,,,,,False,benign,2.4808616217342205e-05,N/A,0.0,2025-09-03T01:39:26.025865
 ulwe.xyz,ICANN,blacklistKeywords_phishing,id,False,,xyz,,,,,,,,,,,,,,,,,,False,benign,5.456673898152076e-05,N/A,0.0,2025-09-03T01:39:26.088158
@@ -437,7 +437,7 @@ utyh-bsije3.app,ICANN,blacklistKeywords_phishing,id,False,,app,,,,,,,,,,,,,,,,,,
 uu-pnny.net,ICANN,blacklistKeywords_phishing,id,False,,net,,,,,,,,,,,,,,,,,,False,benign,3.1283398129744455e-05,N/A,0.0,2025-09-03T01:39:26.560405
 uxf-eg-onoto5.org,ICANN,blacklistKeywords_phishing,id,False,,org,,,,,,,,,,,,,,,,,,False,benign,0.009501365944743156,N/A,0.0,2025-09-03T01:39:26.836083
 v-8-0ay.com,ICANN,blacklistKeywords_phishing,id,False,,com,,,,,,,,,,,,,,,,,,False,benign,2.4681492504896596e-05,N/A,0.0,2025-09-03T01:39:26.378717
-v1h.xyz,ICANN,blacklistKeywords_phishing,id,True,"Chengdu west dimension digital technology Co., LTD",xyz,whois.west.cn,,2024-11-07T09:18:25,2024-11-07T09:18:25;2024-12-15T09:41:33,2025-11-07T09:18:25;2025-11-07T23:59:59,ok https://icann.org/epp#ok;ok http://www.icann.org/epp#ok,ns5.myhostadmin.net;ns6.myhostadmin.net;ns1.myhostadmin.net;ns2.myhostadmin.net;ns3.myhostadmin.net;ns4.myhostadmin.net,unsigned,abuse@west.cn;westabuse@gmail.com,REDACTED FOR PRIVACY,REDACTED FOR PRIVACY,CN,Hu Bei Sheng,REDACTED FOR PRIVACY,REDACTED FOR PRIVACY,,,False,benign,5.413339749793522e-05,N/A,0.0,2025-09-03T01:39:26.847436
+v1h.xyz,ICANN,blacklistKeywords_phishing,id,True,,xyz,,,,,,,,,,,,,,,,,,False,benign,5.413339749793522e-05,N/A,0.0,2025-09-03T01:39:26.847436
 v1khjf.app,ICANN,blacklistKeywords_phishing,id,False,,app,,,,,,,,,,,,,,,,,,True,DGA,0.9712370038032532,pykspa,0.36788633465766907,2025-09-03T01:39:26.202125
 v4n-t9q-16e2jm.xyz,ICANN,blacklistKeywords_phishing,id,False,,xyz,,,,,,,,,,,,,,,,,,False,benign,0.014622827060520649,N/A,0.0,2025-09-03T01:39:26.477757
 v9xp6-2svlk-yht.net,ICANN,blacklistKeywords_phishing,id,False,,net,,,,,,,,,,,,,,,,,,False,benign,0.0901622623205185,N/A,0.0,2025-09-03T01:39:26.316186
@@ -446,7 +446,7 @@ vbk0.com,ICANN,blacklistKeywords_phishing,id,False,,com,,,,,,,,,,,,,,,,,,False,b
 vdg4bw-u5ckb5-f.net,ICANN,blacklistKeywords_phishing,id,False,,net,,,,,,,,,,,,,,,,,,False,benign,0.005563988350331783,N/A,0.0,2025-09-03T01:39:26.540719
 vfq.org,ICANN,blacklistKeywords_phishing,id,False,,org,,,,,,,,,,,,,,,,,,False,benign,0.00015972860273905098,N/A,0.0,2025-09-03T01:39:26.925432
 vlnmj-nnhj-fr.dev,ICANN,blacklistKeywords_phishing,id,False,,dev,,,,,,,,,,,,,,,,,,False,benign,0.38621801137924194,N/A,0.0,2025-09-03T01:39:26.771834
-vny.io,ICANN,blacklistKeywords_phishing,id,False,,io,,,,,,,,,,,,,,,,,,False,benign,0.00019278567924629897,N/A,0.0,2025-09-03T01:39:26.274225
+vny.io,ICANN,blacklistKeywords_phishing,id,True,,io,,,,,,,,,,,,,,,,,,False,benign,0.00019278567924629897,N/A,0.0,2025-09-03T01:39:26.274225
 vyof-b1u9g2-02.org,ICANN,blacklistKeywords_phishing,id,False,,org,,,,,,,,,,,,,,,,,,False,benign,0.15391984581947327,N/A,0.0,2025-09-03T01:39:26.456090
 we64y.xyz,ICANN,blacklistKeywords_phishing,id,False,,xyz,,,,,,,,,,,,,,,,,,False,benign,0.035555947571992874,N/A,0.0,2025-09-03T01:39:26.821342
 wkcf.com,ICANN,blacklistKeywords_phishing,id,False,,com,,,,,,,,,,,,,,,,,,False,benign,5.111302016302943e-05,N/A,0.0,2025-09-03T01:39:26.856107
