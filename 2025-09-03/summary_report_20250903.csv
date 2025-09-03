@@ -1,35 +1,84 @@
 Metric,Value
 Date,20250903
-Total Matched Domains,20000
-Total New Domains (After Diff),500
+Total Matched Domains,14114556
+Total New Domains (After Diff),12505
 Domains From Yesterday,18580534
-Online Domains,24
-Offline Domains,476
-DGA Domains,38
+Online Domains,3542
+Offline Domains,8963
+DGA Domains,550
 
 Source Breakdown (New Domains)
 Source,Count,Online,Offline,DGA
-ICANN,500,24,476,38
+ICANN,12505,3542,8963,550
 
 DGA Families
 Family,Count
-benign,11
-conficker,11
-urlzone,3
-nymaim,3
-pykspa,3
-ud3,1
-modpack,1
-makloader,1
-locky,1
-qhost,1
-darkshell,1
-redyms,1
+conficker,103
+benign,86
+gozi,83
+gameover,55
+murofetweekly,41
+locky,35
+matsnu,27
+wd,23
+suppobox,20
+proslikefan,13
+pykspa,9
+simda,9
+nymaim,9
+qakbot,6
+ud3,3
+modpack,3
+ramnit,3
+bamital,3
+tinynuke,2
+pykspa2,2
+virut,2
+urlzone,2
+chinad,1
+omexo,1
+ranbyus,1
+corebot,1
+symmi,1
+murofet,1
+pykspa2s,1
+dircrypt,1
+oderoor,1
+necurs,1
+banjori,1
 
 Category Breakdown (New Domains)
 Category,Count
-blacklistKeywords_phishing,500
+blacklistKeywords_fraud,5920
+blacklistKeywords_phishing,3156
+blacklistKeywords_crypto_scam,2054
+blacklistKeywords_malware,1478
+blacklistKeywords_hunting_blacklist,1107
+enterpriseBrands_it_top_100_extra,704
+enterpriseBrands_fortune_100,545
+enterpriseBrands_financial,468
+enterpriseBrands_cloud_tech,185
+enterpriseBrands_cybersecurity,16
 
 Top Keywords (New Domains)
 Keyword,Count
-id,500
+service,1962
+rat,1363
+group,1092
+sso,906
+eth,744
+ico,722
+global,613
+online,535
+web,530
+portal,345
+mail,332
+support,309
+pay,307
+view,293
+box,281
+corp,276
+sap,255
+token,244
+secure,237
+find,195
