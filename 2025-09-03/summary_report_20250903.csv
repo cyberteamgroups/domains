@@ -1,0 +1,23 @@
+Metric,Value
+Date,20250903
+Total Matched Domains,20000
+Total New Domains (After Diff),500
+Domains From Yesterday,18580534
+Online Domains,14
+Offline Domains,486
+DGA Domains,0
+
+Source Breakdown (New Domains)
+Source,Count,Online,Offline,DGA
+ICANN,500,14,486,0
+
+DGA Families
+Family,Count
+
+Category Breakdown (New Domains)
+Category,Count
+blacklistKeywords_phishing,500
+
+Top Keywords (New Domains)
+Keyword,Count
+id,500
