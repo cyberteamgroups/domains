@@ -3,8 +3,8 @@
   "total_matched_domains": 20000,
   "total_new_domains": 500,
   "domains_from_yesterday": 18580534,
-  "online_domains": 21,
-  "offline_domains": 479,
+  "online_domains": 24,
+  "offline_domains": 476,
   "dga_domains": 38,
   "dga_families": {
     "urlzone": 3,
@@ -23,8 +23,8 @@
   "sources_breakdown": {
     "ICANN": {
       "count": 500,
-      "online": 21,
-      "offline": 479,
+      "online": 24,
+      "offline": 476,
       "dga": 38,
       "categories": {
         "blacklistKeywords_phishing": 500
