@@ -1,20 +1,86 @@
 Metric,Value
 Date,20250916
-Total Matched Domains,14127430
-Total New Domains (After Diff),0
+Total Matched Domains,14130250
+Total New Domains (After Diff),12617
 Domains From Yesterday,14127430
-Online Domains,0
-Offline Domains,0
-DGA Domains,0
+Online Domains,4469
+Offline Domains,8148
+DGA Domains,487
 
 Source Breakdown (New Domains)
 Source,Count,Online,Offline,DGA
+ICANN,12617,4469,8148,487
 
 DGA Families
 Family,Count
+conficker,76
+gozi,74
+benign,73
+gameover,45
+murofetweekly,34
+locky,33
+matsnu,29
+suppobox,22
+wd,19
+proslikefan,15
+qakbot,13
+tinynuke,6
+pykspa,6
+nymaim,5
+simda,5
+necurs,4
+vawtrak,3
+xxhex,3
+pykspa2,3
+volatilecedar,2
+ramnit,2
+pushdo,2
+modpack,1
+omexo,1
+murofet,1
+padcrypt,1
+szribi,1
+virut,1
+madmax,1
+rovnix,1
+banjori,1
+tempedreve,1
+qhost,1
+pykspa2s,1
+vidrotid,1
 
 Category Breakdown (New Domains)
 Category,Count
+blacklistKeywords_fraud,5913
+blacklistKeywords_phishing,3272
+blacklistKeywords_crypto_scam,1823
+blacklistKeywords_malware,1527
+blacklistKeywords_hunting_blacklist,1200
+enterpriseBrands_it_top_100_extra,789
+enterpriseBrands_fortune_100,596
+enterpriseBrands_financial,464
+enterpriseBrands_cloud_tech,214
+enterpriseBrands_cybersecurity,30
 
 Top Keywords (New Domains)
 Keyword,Count
+service,1962
+rat,1330
+group,1003
+sso,1002
+ico,640
+eth,604
+web,601
+global,574
+online,512
+mail,362
+portal,351
+support,345
+box,340
+view,319
+pay,289
+sap,273
+secure,255
+corp,241
+trust,200
+owa,192
